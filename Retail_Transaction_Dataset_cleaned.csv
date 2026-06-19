@@ -1,0 +1,1001 @@
+Invoice_ID,Date,Day,Month,Time,Gender,Location,City,Is_Member?,Category,Price,Quantity,Total_Amount,Sales_Category,Payment,Rating
+460489604,2018-01-25,Thursday,January,2026-06-03 16:46:00,Male,Brookfield,NewYork,Yes,Groceries,30.0,1,30.0,Low,Cash,2
+471006167,2018-03-19,Monday,March,2026-06-03 16:48:00,Female,Water Tower,Chicago,Yes,Fashion,35.0,5,175.0,Low,Card,3
+411909258,2018-02-25,Sunday,February,2026-06-03 13:33:00,Male,Water Tower,Chicago,No,Clothing,57.0,2,114.0,Low,Cash,5
+487313402,2018-01-22,Monday,January,2026-06-03 13:38:00,Female,Park Lane,Dallas,Yes,Sporting,89.0,4,356.0,Medium,Gpay,1
+197763430,2018-02-18,Sunday,February,2026-06-03 15:31:00,Female,Park Lane,Dallas,No,Books,82.0,5,410.0,High,Cash,4
+263634050,2018-03-09,Friday,March,2026-06-03 17:55:00,Male,Brookfield,NewYork,Yes,Clothing,52.0,4,208.0,Medium,Gpay,3
+99646662,2018-03-04,Sunday,March,2026-06-03 13:21:00,Male,Water Tower,Chicago,No,Clothing,81.0,3,243.0,Medium,Cash,4
+188869875,2018-03-08,Thursday,March,2026-06-03 13:24:00,Male,Park Lane,Dallas,No,Books,80.0,2,160.0,Low,Cash,3
+325637547,2018-01-18,Thursday,January,2026-06-03 15:33:00,Male,Park Lane,Dallas,Yes,Clothing,91.0,3,273.0,Medium,Card,3
+562942936,2018-02-24,Saturday,February,2026-06-03 16:05:00,Female,Park Lane,Dallas,No,Books,80.0,2,160.0,Low,Cash,4
+388412668,2018-02-26,Monday,February,2026-06-03 11:32:00,Female,Brookfield,NewYork,No,Furniture,35.0,4,140.0,Low,Gpay,4
+846531724,2018-03-15,Thursday,March,2026-06-03 12:12:00,Male,Park Lane,Dallas,No,Sporting,22.0,5,110.0,Low,Card,4
+149894432,2018-01-12,Friday,January,2026-06-03 11:12:00,Male,Park Lane,Dallas,No,Clothing,77.0,5,385.0,Medium,Cash,4
+942406749,2018-01-18,Thursday,January,2026-06-03 15:20:00,Female,Water Tower,Chicago,Yes,Clothing,9.0,6,54.0,Low,Gpay,5
+547572603,2018-03-21,Wednesday,March,2026-06-03 13:23:00,Female,Brookfield,NewYork,No,Fashion,98.0,7,686.0,High,Gpay,3
+355981315,2018-02-15,Thursday,February,2026-06-03 15:47:00,Female,Brookfield,NewYork,Yes,Clothing,78.0,5,390.0,Medium,Card,5
+397754805,2018-02-09,Friday,February,2026-06-03 15:59:00,Female,Brookfield,NewYork,Yes,Sporting,35.0,7,245.0,Medium,Gpay,1
+90524319,2018-03-19,Monday,March,2026-06-03 18:18:00,Male,Park Lane,Dallas,Yes,Clothing,23.0,1,23.0,Low,Cash,3
+542144906,2018-02-06,Tuesday,February,2026-06-03 10:58:00,Female,Brookfield,NewYork,Yes,Fashion,33.0,5,165.0,Low,Gpay,2
+729486362,2018-03-07,Wednesday,March,2026-06-03 12:50:00,Male,Water Tower,Chicago,No,Groceries,39.0,4,156.0,Low,Cash,3
+619639105,2018-03-26,Monday,March,2026-06-03 19:48:00,Female,Brookfield,NewYork,No,Groceries,44.0,6,264.0,Medium,Cash,1
+443198801,2018-02-24,Saturday,February,2026-06-03 19:31:00,Female,Brookfield,NewYork,No,Clothing,48.0,5,240.0,Medium,Card,5
+761515143,2018-01-15,Monday,January,2026-06-03 16:08:00,Female,Park Lane,Dallas,No,Groceries,23.0,1,23.0,Low,Gpay,3
+56578535,2018-03-23,Friday,March,2026-06-03 10:11:00,Male,Water Tower,Chicago,Yes,Groceries,24.0,1,24.0,Low,Gpay,2
+834838148,2018-02-15,Thursday,February,2026-06-03 13:00:00,Male,Brookfield,NewYork,Yes,Groceries,12.0,4,48.0,Low,Card,1
+833288071,2018-01-25,Thursday,January,2026-06-03 15:02:00,Male,Water Tower,Chicago,No,Sporting,16.0,5,80.0,Low,Gpay,2
+508614950,2018-01-24,Wednesday,January,2026-06-03 16:47:00,Female,Park Lane,Dallas,No,Sporting,38.0,2,76.0,Low,Cash,4
+103072863,2018-03-12,Monday,March,2026-06-03 11:57:00,Male,Water Tower,Chicago,No,Groceries,41.0,6,246.0,Medium,Card,5
+355815500,2018-01-20,Saturday,January,2026-06-03 15:09:00,Female,Park Lane,Dallas,Yes,Furniture,16.0,6,96.0,Low,Card,2
+193855414,2018-03-04,Sunday,March,2026-06-03 12:04:00,Female,Brookfield,NewYork,Yes,Clothing,51.0,4,204.0,Medium,Card,2
+600792216,2018-03-06,Tuesday,March,2026-06-03 17:04:00,Male,Park Lane,Dallas,Yes,Clothing,42.0,7,294.0,Medium,Card,5
+567867755,2018-02-03,Saturday,February,2026-06-03 20:59:00,Female,Brookfield,NewYork,No,Furniture,86.0,3,258.0,Medium,Cash,2
+597934753,2018-03-26,Monday,March,2026-06-03 16:46:00,Female,Brookfield,NewYork,No,Clothing,19.0,6,114.0,Low,Card,3
+419033295,2018-03-24,Saturday,March,2026-06-03 15:57:00,Male,Water Tower,Chicago,Yes,Furniture,68.0,2,136.0,Low,Gpay,4
+8795029,2018-01-19,Friday,January,2026-06-03 17:03:00,Female,Brookfield,NewYork,No,Clothing,4.0,2,8.0,Low,Card,2
+912473338,2018-02-25,Sunday,February,2026-06-03 11:27:00,Male,Park Lane,Dallas,No,Sporting,41.0,7,287.0,Medium,Gpay,1
+209725428,2018-03-20,Tuesday,March,2026-06-03 12:45:00,Female,Water Tower,Chicago,Yes,Sporting,79.0,7,553.0,High,Gpay,1
+460044751,2018-02-22,Thursday,February,2026-06-03 16:20:00,Male,Brookfield,NewYork,No,Fashion,45.0,5,225.0,Medium,Cash,4
+191736512,2018-02-14,Wednesday,February,2026-06-03 14:13:00,Female,Park Lane,Dallas,No,Sporting,60.0,6,360.0,Medium,Cash,1
+979973145,2018-01-14,Sunday,January,2026-06-03 19:26:00,Female,Brookfield,NewYork,Yes,Sporting,79.0,4,316.0,Medium,Gpay,4
+43371182,2018-01-28,Sunday,January,2026-06-03 19:24:00,Male,Park Lane,Dallas,Yes,Clothing,75.0,7,525.0,High,Cash,2
+613811022,2018-01-09,Tuesday,January,2026-06-03 20:55:00,Male,Water Tower,Chicago,No,Clothing,24.0,7,168.0,Low,Cash,4
+673603546,2018-03-26,Monday,March,2026-06-03 10:11:00,Female,Water Tower,Chicago,No,Groceries,40.0,5,200.0,Low,Gpay,1
+328132417,2018-01-03,Wednesday,January,2026-06-03 19:01:00,Female,Water Tower,Chicago,No,Fashion,9.0,2,18.0,Low,Cash,2
+325924536,2018-03-04,Sunday,March,2026-06-03 10:38:00,Female,Park Lane,Dallas,No,Clothing,16.0,7,112.0,Low,Gpay,3
+747705702,2018-02-07,Wednesday,February,2026-06-03 13:57:00,Male,Brookfield,NewYork,Yes,Books,31.0,5,155.0,Low,Gpay,1
+450817216,2018-02-07,Wednesday,February,2026-06-03 10:57:00,Female,Water Tower,Chicago,Yes,Furniture,79.0,7,553.0,High,Gpay,4
+315624039,2018-03-30,Friday,March,2026-06-03 19:45:00,Female,Water Tower,Chicago,Yes,Groceries,99.0,7,693.0,High,Gpay,3
+888822600,2018-01-12,Friday,January,2026-06-03 19:49:00,Female,Water Tower,Chicago,No,Groceries,4.0,2,8.0,Low,Card,5
+896399395,2018-02-15,Thursday,February,2026-06-03 14:36:00,Male,Park Lane,Dallas,Yes,Clothing,26.0,7,182.0,Low,Cash,2
+20548577,2018-01-07,Sunday,January,2026-06-03 14:00:00,Male,Park Lane,Dallas,Yes,Furniture,43.0,2,86.0,Low,Gpay,5
+500850764,2018-03-19,Monday,March,2026-06-03 14:04:00,Female,Water Tower,Chicago,No,Groceries,67.0,1,67.0,Low,Gpay,1
+466598448,2018-02-02,Friday,February,2026-06-03 18:50:00,Female,Brookfield,NewYork,No,Books,78.0,7,546.0,High,Gpay,5
+265371038,2018-02-26,Monday,February,2026-06-03 13:53:00,Male,Brookfield,NewYork,Yes,Sporting,29.0,1,29.0,Low,Card,4
+175938157,2018-03-28,Wednesday,March,2026-06-03 12:58:00,Female,Brookfield,NewYork,Yes,Fashion,62.0,4,248.0,Medium,Gpay,5
+839600262,2018-01-05,Friday,January,2026-06-03 19:30:00,Female,Park Lane,Dallas,Yes,Groceries,32.0,2,64.0,Low,Cash,1
+885253494,2018-03-24,Saturday,March,2026-06-03 12:52:00,Male,Park Lane,Dallas,Yes,Sporting,53.0,1,53.0,Low,Gpay,4
+180545139,2018-03-14,Wednesday,March,2026-06-03 10:46:00,Female,Brookfield,NewYork,Yes,Clothing,87.0,7,609.0,High,Gpay,1
+227063423,2018-01-16,Tuesday,January,2026-06-03 16:38:00,Male,Water Tower,Chicago,No,Books,47.0,4,188.0,Low,Gpay,3
+500777576,2018-03-22,Thursday,March,2026-06-03 12:22:00,Female,Water Tower,Chicago,No,Sporting,60.0,7,420.0,High,Gpay,5
+426576006,2018-01-22,Monday,January,2026-06-03 17:34:00,Female,Brookfield,NewYork,No,Sporting,21.0,1,21.0,Low,Gpay,5
+934647292,2018-01-18,Thursday,January,2026-06-03 11:26:00,Male,Water Tower,Chicago,No,Fashion,59.0,6,354.0,Medium,Cash,4
+975443414,2018-03-30,Friday,March,2026-06-03 12:58:00,Male,Park Lane,Dallas,No,Groceries,23.0,3,69.0,Low,Card,2
+858716993,2018-02-03,Saturday,February,2026-06-03 17:38:00,Male,Water Tower,Chicago,Yes,Furniture,56.0,4,224.0,Medium,Gpay,4
+776761484,2018-01-29,Monday,January,2026-06-03 17:59:00,Female,Water Tower,Chicago,No,Clothing,4.0,5,20.0,Low,Gpay,5
+798252244,2018-01-23,Tuesday,January,2026-06-03 11:05:00,Male,Park Lane,Dallas,Yes,Sporting,51.0,7,357.0,Medium,Gpay,2
+595065138,2018-02-17,Saturday,February,2026-06-03 13:55:00,Male,Park Lane,Dallas,No,Fashion,21.0,2,42.0,Low,Gpay,3
+366083315,2018-03-11,Sunday,March,2026-06-03 13:54:00,Female,Park Lane,Dallas,No,Groceries,68.0,5,340.0,Medium,Gpay,3
+746011173,2018-02-17,Saturday,February,2026-06-03 18:31:00,Male,Brookfield,NewYork,No,Books,51.0,7,357.0,Medium,Gpay,5
+687132774,2018-03-11,Sunday,March,2026-06-03 13:21:00,Female,Park Lane,Dallas,No,Sporting,26.0,2,52.0,Low,Gpay,3
+554361739,2018-01-02,Tuesday,January,2026-06-03 17:24:00,Male,Brookfield,NewYork,Yes,Books,97.0,6,582.0,High,Cash,4
+563130623,2018-02-27,Tuesday,February,2026-06-03 10:41:00,Male,Park Lane,Dallas,No,Furniture,23.0,5,115.0,Low,Gpay,4
+380354826,2018-03-04,Sunday,March,2026-06-03 12:10:00,Female,Water Tower,Chicago,No,Fashion,28.0,7,196.0,Low,Gpay,5
+107399414,2018-03-17,Saturday,March,2026-06-03 10:16:00,Male,Brookfield,NewYork,Yes,Groceries,65.0,3,195.0,Low,Card,2
+851267575,2018-01-07,Sunday,January,2026-06-03 12:07:00,Male,Water Tower,Chicago,No,Books,74.0,1,74.0,Low,Gpay,5
+437093770,2018-02-07,Wednesday,February,2026-06-03 16:42:00,Female,Park Lane,Dallas,Yes,Sporting,4.0,1,4.0,Low,Cash,2
+177764380,2018-02-17,Saturday,February,2026-06-03 17:37:00,Male,Water Tower,Chicago,Yes,Furniture,50.0,4,200.0,Low,Card,4
+36054637,2018-02-17,Saturday,February,2026-06-03 11:15:00,Male,Water Tower,Chicago,Yes,Clothing,56.0,5,280.0,Medium,Cash,5
+127420911,2018-02-21,Wednesday,February,2026-06-03 15:06:00,Male,Water Tower,Chicago,Yes,Groceries,39.0,7,273.0,Medium,Cash,3
+709746437,2018-01-07,Sunday,January,2026-06-03 13:22:00,Male,Park Lane,Dallas,Yes,Groceries,39.0,5,195.0,Low,Card,3
+867695625,2018-01-17,Wednesday,January,2026-06-03 19:46:00,Male,Water Tower,Chicago,No,Clothing,36.0,7,252.0,Medium,Card,5
+336967276,2018-01-19,Friday,January,2026-06-03 17:54:00,Male,Brookfield,NewYork,No,Books,36.0,1,36.0,Low,Cash,5
+677779969,2018-01-26,Friday,January,2026-06-03 17:08:00,Male,Water Tower,Chicago,Yes,Books,14.0,2,28.0,Low,Gpay,2
+401666792,2018-02-07,Wednesday,February,2026-06-03 12:17:00,Female,Brookfield,NewYork,Yes,Furniture,51.0,6,306.0,Medium,Gpay,2
+616515038,2018-03-10,Saturday,March,2026-06-03 14:12:00,Female,Water Tower,Chicago,Yes,Groceries,10.0,2,20.0,Low,Cash,5
+160906524,2018-01-25,Thursday,January,2026-06-03 11:51:00,Female,Park Lane,Dallas,No,Fashion,25.0,7,175.0,Low,Gpay,2
+978363495,2018-03-23,Friday,March,2026-06-03 14:13:00,Male,Water Tower,Chicago,No,Groceries,9.0,3,27.0,Low,Gpay,2
+198509753,2018-01-19,Friday,January,2026-06-03 17:10:00,Male,Park Lane,Dallas,Yes,Furniture,11.0,5,55.0,Low,Gpay,1
+580839402,2018-02-08,Thursday,February,2026-06-03 18:30:00,Female,Brookfield,NewYork,No,Clothing,63.0,6,378.0,Medium,Card,5
+533156738,2018-03-24,Saturday,March,2026-06-03 13:57:00,Male,Water Tower,Chicago,No,Clothing,3.0,2,6.0,Low,Cash,4
+117522526,2018-02-03,Saturday,February,2026-06-03 10:40:00,Male,Park Lane,Dallas,No,Books,13.0,3,39.0,Low,Gpay,1
+727593101,2018-03-02,Friday,March,2026-06-03 16:06:00,Male,Park Lane,Dallas,Yes,Groceries,77.0,2,154.0,Low,Card,3
+446636139,2018-01-20,Saturday,January,2026-06-03 16:51:00,Male,Brookfield,NewYork,Yes,Books,42.0,3,126.0,Low,Card,1
+993368037,2018-01-26,Friday,January,2026-06-03 15:29:00,Female,Water Tower,Chicago,Yes,Fashion,43.0,7,301.0,Medium,Gpay,3
+435094946,2018-01-12,Friday,January,2026-06-03 10:54:00,Male,Brookfield,NewYork,No,Sporting,80.0,6,480.0,High,Cash,5
+842361554,2018-01-14,Sunday,January,2026-06-03 16:17:00,Male,Brookfield,NewYork,Yes,Clothing,5.0,1,5.0,Low,Cash,2
+964002523,2018-03-04,Sunday,March,2026-06-03 17:38:00,Male,Water Tower,Chicago,No,Sporting,56.0,6,336.0,Medium,Cash,2
+719679728,2018-01-13,Saturday,January,2026-06-03 15:29:00,Male,Water Tower,Chicago,Yes,Books,87.0,5,435.0,High,Cash,4
+748990073,2018-03-12,Monday,March,2026-06-03 20:15:00,Male,Water Tower,Chicago,No,Sporting,26.0,3,78.0,Low,Cash,5
+407802065,2018-02-14,Wednesday,February,2026-06-03 18:03:00,Female,Brookfield,NewYork,No,Sporting,94.0,2,188.0,Low,Gpay,3
+515862366,2018-02-12,Monday,February,2026-06-03 10:57:00,Female,Park Lane,Dallas,No,Sporting,94.0,6,564.0,High,Card,3
+42787009,2018-03-28,Wednesday,March,2026-06-03 11:25:00,Female,Park Lane,Dallas,Yes,Clothing,30.0,3,90.0,Low,Card,5
+780195692,2018-02-20,Tuesday,February,2026-06-03 12:42:00,Female,Park Lane,Dallas,No,Books,29.0,6,174.0,Low,Cash,1
+881639873,2018-02-27,Tuesday,February,2026-06-03 15:05:00,Male,Park Lane,Dallas,Yes,Fashion,64.0,1,64.0,Low,Gpay,5
+443388850,2018-02-05,Monday,February,2026-06-03 16:31:00,Male,Brookfield,NewYork,Yes,Furniture,97.0,5,485.0,High,Card,4
+635503529,2018-03-24,Saturday,March,2026-06-03 15:17:00,Male,Water Tower,Chicago,No,Books,61.0,6,366.0,Medium,Cash,5
+774895188,2018-02-07,Wednesday,February,2026-06-03 20:29:00,Female,Brookfield,NewYork,Yes,Books,17.0,6,102.0,Low,Card,1
+194154086,2018-02-11,Sunday,February,2026-06-03 16:28:00,Female,Brookfield,NewYork,Yes,Furniture,4.0,5,20.0,Low,Gpay,4
+191782944,2018-01-20,Saturday,January,2026-06-03 19:28:00,Female,Brookfield,NewYork,Yes,Clothing,43.0,1,43.0,Low,Card,1
+949506131,2018-02-08,Thursday,February,2026-06-03 10:43:00,Male,Brookfield,NewYork,Yes,Sporting,50.0,6,300.0,Medium,Gpay,2
+866328026,2018-01-03,Wednesday,January,2026-06-03 14:41:00,Male,Water Tower,Chicago,Yes,Sporting,61.0,1,61.0,Low,Gpay,2
+43708341,2018-03-05,Monday,March,2026-06-03 15:54:00,Male,Park Lane,Dallas,Yes,Groceries,37.0,3,111.0,Low,Card,4
+337106518,2018-01-01,Monday,January,2026-06-03 12:08:00,Male,Water Tower,Chicago,Yes,Groceries,19.0,3,57.0,Low,Gpay,3
+663329867,2018-02-02,Friday,February,2026-06-03 14:27:00,Female,Brookfield,NewYork,Yes,Books,5.0,6,30.0,Low,Gpay,3
+419221776,2018-01-31,Wednesday,January,2026-06-03 20:36:00,Female,Park Lane,Dallas,Yes,Sporting,38.0,4,152.0,Low,Cash,5
+745600525,2018-03-27,Tuesday,March,2026-06-03 13:45:00,Male,Park Lane,Dallas,Yes,Sporting,75.0,7,525.0,High,Card,5
+208190296,2018-03-06,Tuesday,March,2026-06-03 13:05:00,Male,Brookfield,NewYork,No,Sporting,3.0,6,18.0,Low,Card,2
+4315051,2018-02-06,Tuesday,February,2026-06-03 10:00:00,Male,Park Lane,Dallas,No,Furniture,32.0,3,96.0,Low,Gpay,1
+456069400,2018-03-09,Friday,March,2026-06-03 15:21:00,Female,Water Tower,Chicago,No,Clothing,6.0,2,12.0,Low,Cash,2
+198592951,2018-03-16,Friday,March,2026-06-03 15:53:00,Female,Brookfield,NewYork,Yes,Groceries,72.0,7,504.0,High,Cash,3
+127206426,2018-01-20,Saturday,January,2026-06-03 18:17:00,Male,Park Lane,Dallas,No,Clothing,70.0,1,70.0,Low,Card,1
+812090406,2018-03-29,Thursday,March,2026-06-03 12:32:00,Male,Park Lane,Dallas,Yes,Fashion,67.0,5,335.0,Medium,Gpay,5
+277220872,2018-01-17,Wednesday,January,2026-06-03 19:08:00,Male,Park Lane,Dallas,Yes,Clothing,15.0,6,90.0,Low,Card,3
+366492621,2018-02-22,Thursday,February,2026-06-03 20:18:00,Male,Water Tower,Chicago,No,Clothing,5.0,5,25.0,Low,Gpay,5
+258316154,2018-02-24,Saturday,February,2026-06-03 18:24:00,Male,Water Tower,Chicago,No,Fashion,1.0,7,7.0,Low,Card,4
+122309285,2018-01-26,Friday,January,2026-06-03 15:07:00,Male,Water Tower,Chicago,Yes,Furniture,54.0,2,108.0,Low,Card,1
+555703265,2018-02-25,Sunday,February,2026-06-03 19:48:00,Male,Brookfield,NewYork,No,Groceries,52.0,4,208.0,Medium,Gpay,3
+911408389,2018-02-27,Tuesday,February,2026-06-03 10:18:00,Male,Water Tower,Chicago,Yes,Groceries,18.0,5,90.0,Low,Card,2
+675873533,2018-03-02,Friday,March,2026-06-03 15:19:00,Female,Water Tower,Chicago,No,Furniture,62.0,2,124.0,Low,Card,4
+866739244,2018-01-02,Tuesday,January,2026-06-03 12:14:00,Female,Brookfield,NewYork,Yes,Books,14.0,7,98.0,Low,Gpay,1
+512879237,2018-01-06,Saturday,January,2026-06-03 20:37:00,Female,Park Lane,Dallas,Yes,Fashion,86.0,6,516.0,High,Card,5
+260820560,2018-02-28,Wednesday,February,2026-06-03 20:21:00,Male,Park Lane,Dallas,No,Clothing,29.0,5,145.0,Low,Gpay,5
+541985844,2018-01-24,Wednesday,January,2026-06-03 13:22:00,Female,Brookfield,NewYork,No,Fashion,69.0,6,414.0,High,Gpay,1
+9436913,2018-01-27,Saturday,January,2026-06-03 14:26:00,Female,Park Lane,Dallas,No,Groceries,9.0,4,36.0,Low,Cash,2
+262498476,2018-03-28,Wednesday,March,2026-06-03 13:23:00,Female,Park Lane,Dallas,Yes,Books,59.0,7,413.0,High,Gpay,2
+442355183,2018-03-25,Sunday,March,2026-06-03 14:48:00,Female,Brookfield,NewYork,Yes,Fashion,87.0,2,174.0,Low,Cash,3
+217802268,2018-01-19,Friday,January,2026-06-03 12:20:00,Male,Water Tower,Chicago,No,Furniture,70.0,3,210.0,Medium,Cash,2
+68624343,2018-03-08,Thursday,March,2026-06-03 19:16:00,Male,Water Tower,Chicago,No,Sporting,97.0,2,194.0,Low,Gpay,4
+48392594,2018-02-04,Sunday,February,2026-06-03 18:06:00,Female,Brookfield,NewYork,Yes,Clothing,49.0,7,343.0,Medium,Cash,1
+478164051,2018-01-25,Thursday,January,2026-06-03 13:00:00,Male,Brookfield,NewYork,Yes,Books,6.0,6,36.0,Low,Gpay,5
+723722504,2018-01-05,Friday,January,2026-06-03 20:50:00,Female,Water Tower,Chicago,No,Furniture,3.0,2,6.0,Low,Gpay,1
+510014671,2018-02-22,Thursday,February,2026-06-03 19:12:00,Female,Brookfield,NewYork,No,Furniture,39.0,4,156.0,Low,Gpay,4
+895009015,2018-03-13,Tuesday,March,2026-06-03 10:53:00,Female,Park Lane,Dallas,Yes,Fashion,97.0,4,388.0,Medium,Card,5
+995068874,2018-01-31,Wednesday,January,2026-06-03 17:36:00,Male,Brookfield,NewYork,No,Furniture,34.0,6,204.0,Medium,Card,3
+210787158,2018-03-25,Sunday,March,2026-06-03 19:17:00,Male,Park Lane,Dallas,Yes,Clothing,15.0,5,75.0,Low,Cash,4
+939718527,2018-03-03,Saturday,March,2026-06-03 20:04:00,Female,Water Tower,Chicago,Yes,Books,97.0,7,679.0,High,Cash,2
+140174468,2018-01-27,Saturday,January,2026-06-03 20:29:00,Male,Brookfield,NewYork,No,Sporting,61.0,2,122.0,Low,Cash,3
+977135436,2018-01-12,Friday,January,2026-06-03 19:25:00,Female,Park Lane,Dallas,No,Sporting,38.0,3,114.0,Low,Card,3
+8832185,2018-03-03,Saturday,March,2026-06-03 11:23:00,Female,Park Lane,Dallas,No,Fashion,44.0,4,176.0,Low,Gpay,1
+373494614,2018-02-27,Tuesday,February,2026-06-03 12:21:00,Female,Park Lane,Dallas,No,Fashion,49.0,2,98.0,Low,Card,1
+425924757,2018-01-04,Thursday,January,2026-06-03 16:47:00,Female,Park Lane,Dallas,Yes,Groceries,67.0,4,268.0,Medium,Card,4
+264102536,2018-02-07,Wednesday,February,2026-06-03 19:28:00,Female,Brookfield,NewYork,No,Furniture,88.0,4,352.0,Medium,Cash,3
+376560178,2018-03-26,Monday,March,2026-06-03 10:00:00,Male,Water Tower,Chicago,Yes,Books,2.0,2,4.0,Low,Card,4
+113991887,2018-01-15,Monday,January,2026-06-03 18:43:00,Male,Brookfield,NewYork,No,Books,85.0,7,595.0,High,Card,4
+985931753,2018-02-02,Friday,February,2026-06-03 13:12:00,Male,Park Lane,Dallas,No,Books,41.0,4,164.0,Low,Card,2
+482096810,2018-01-25,Thursday,January,2026-06-03 13:32:00,Female,Brookfield,NewYork,Yes,Clothing,91.0,4,364.0,Medium,Card,3
+294501073,2018-03-20,Tuesday,March,2026-06-03 19:50:00,Female,Water Tower,Chicago,No,Sporting,21.0,1,21.0,Low,Card,1
+928762219,2018-02-27,Tuesday,February,2026-06-03 14:55:00,Male,Brookfield,NewYork,Yes,Groceries,84.0,1,84.0,Low,Card,5
+487004803,2018-01-17,Wednesday,January,2026-06-03 20:30:00,Male,Water Tower,Chicago,No,Clothing,56.0,6,336.0,Medium,Gpay,2
+582323814,2018-01-13,Saturday,January,2026-06-03 20:06:00,Male,Brookfield,NewYork,Yes,Fashion,5.0,4,20.0,Low,Cash,2
+513905846,2018-01-28,Sunday,January,2026-06-03 20:42:00,Female,Water Tower,Chicago,Yes,Clothing,36.0,5,180.0,Low,Card,3
+289206319,2018-01-11,Thursday,January,2026-06-03 14:53:00,Male,Water Tower,Chicago,No,Groceries,68.0,1,68.0,Low,Cash,5
+257338584,2018-03-23,Friday,March,2026-06-03 10:09:00,Female,Water Tower,Chicago,Yes,Books,34.0,3,102.0,Low,Gpay,5
+58932351,2018-03-01,Thursday,March,2026-06-03 15:39:00,Female,Water Tower,Chicago,Yes,Fashion,32.0,1,32.0,Low,Gpay,4
+602936337,2018-01-24,Wednesday,January,2026-06-03 15:42:00,Male,Water Tower,Chicago,No,Sporting,17.0,6,102.0,Low,Cash,1
+404247810,2018-03-05,Monday,March,2026-06-03 13:41:00,Male,Park Lane,Dallas,No,Furniture,98.0,6,588.0,High,Gpay,5
+465624646,2018-01-19,Friday,January,2026-06-03 10:30:00,Female,Brookfield,NewYork,Yes,Books,67.0,7,469.0,High,Cash,3
+219007732,2018-03-16,Friday,March,2026-06-03 13:25:00,Male,Brookfield,NewYork,No,Clothing,71.0,1,71.0,Low,Cash,4
+916085444,2018-03-20,Tuesday,March,2026-06-03 14:38:00,Male,Brookfield,NewYork,No,Fashion,91.0,4,364.0,Medium,Gpay,1
+662413753,2018-02-07,Wednesday,February,2026-06-03 18:14:00,Male,Brookfield,NewYork,Yes,Books,48.0,6,288.0,Medium,Gpay,1
+702839682,2018-03-29,Thursday,March,2026-06-03 13:46:00,Female,Water Tower,Chicago,Yes,Sporting,73.0,5,365.0,Medium,Card,5
+585656963,2018-01-10,Wednesday,January,2026-06-03 14:35:00,Female,Park Lane,Dallas,Yes,Groceries,71.0,1,71.0,Low,Card,5
+253581497,2018-01-24,Wednesday,January,2026-06-03 14:15:00,Male,Water Tower,Chicago,Yes,Furniture,97.0,7,679.0,High,Cash,5
+882131997,2018-03-19,Monday,March,2026-06-03 18:31:00,Female,Brookfield,NewYork,Yes,Sporting,72.0,2,144.0,Low,Gpay,4
+462468336,2018-02-02,Friday,February,2026-06-03 13:18:00,Male,Park Lane,Dallas,Yes,Furniture,80.0,4,320.0,Medium,Card,2
+629406644,2018-02-11,Sunday,February,2026-06-03 18:02:00,Male,Brookfield,NewYork,Yes,Groceries,30.0,4,120.0,Low,Gpay,1
+474601530,2018-03-08,Thursday,March,2026-06-03 15:18:00,Female,Brookfield,NewYork,No,Sporting,70.0,3,210.0,Medium,Gpay,4
+462439346,2018-03-06,Tuesday,March,2026-06-03 11:17:00,Male,Park Lane,Dallas,Yes,Sporting,62.0,7,434.0,High,Cash,5
+215114097,2018-01-26,Friday,January,2026-06-03 20:24:00,Female,Park Lane,Dallas,Yes,Fashion,4.0,6,24.0,Low,Card,5
+543642731,2018-03-06,Tuesday,March,2026-06-03 15:48:00,Female,Park Lane,Dallas,No,Books,25.0,4,100.0,Low,Cash,1
+481437943,2018-01-10,Wednesday,January,2026-06-03 14:35:00,Female,Brookfield,NewYork,No,Clothing,58.0,4,232.0,Medium,Gpay,3
+124926696,2018-01-07,Sunday,January,2026-06-03 18:14:00,Male,Water Tower,Chicago,Yes,Groceries,36.0,5,180.0,Low,Cash,5
+129896806,2018-01-27,Saturday,January,2026-06-03 17:16:00,Female,Brookfield,NewYork,No,Groceries,93.0,4,372.0,Medium,Card,2
+706578333,2018-03-28,Wednesday,March,2026-06-03 11:12:00,Female,Water Tower,Chicago,No,Sporting,61.0,1,61.0,Low,Gpay,2
+801334050,2018-01-21,Sunday,January,2026-06-03 20:18:00,Female,Park Lane,Dallas,No,Furniture,1.0,1,1.0,Low,Gpay,2
+442630573,2018-03-14,Wednesday,March,2026-06-03 13:58:00,Female,Park Lane,Dallas,Yes,Furniture,42.0,4,168.0,Low,Card,4
+7730990,2018-01-25,Thursday,January,2026-06-03 18:35:00,Male,Water Tower,Chicago,No,Groceries,8.0,7,56.0,Low,Cash,2
+805244200,2018-01-28,Sunday,January,2026-06-03 19:55:00,Female,Water Tower,Chicago,Yes,Books,80.0,3,240.0,Medium,Card,4
+458523449,2018-02-25,Sunday,February,2026-06-03 12:10:00,Female,Water Tower,Chicago,Yes,Clothing,43.0,1,43.0,Low,Card,1
+762712864,2018-01-18,Thursday,January,2026-06-03 18:20:00,Female,Water Tower,Chicago,No,Books,31.0,5,155.0,Low,Gpay,3
+660523948,2018-03-27,Tuesday,March,2026-06-03 18:51:00,Female,Park Lane,Dallas,No,Books,97.0,2,194.0,Low,Cash,4
+336253887,2018-03-16,Friday,March,2026-06-03 13:14:00,Female,Brookfield,NewYork,No,Furniture,72.0,1,72.0,Low,Card,1
+951079308,2018-01-02,Tuesday,January,2026-06-03 19:05:00,Female,Water Tower,Chicago,No,Furniture,36.0,4,144.0,Low,Gpay,5
+447153891,2018-01-11,Thursday,January,2026-06-03 11:25:00,Male,Water Tower,Chicago,No,Fashion,52.0,3,156.0,Low,Cash,3
+795528663,2018-03-13,Tuesday,March,2026-06-03 19:15:00,Male,Brookfield,NewYork,No,Furniture,81.0,1,81.0,Low,Gpay,4
+343603860,2018-02-04,Sunday,February,2026-06-03 14:57:00,Female,Park Lane,Dallas,No,Sporting,76.0,3,228.0,Medium,Card,3
+925499362,2018-01-12,Friday,January,2026-06-03 11:22:00,Female,Brookfield,NewYork,Yes,Clothing,78.0,4,312.0,Medium,Gpay,2
+579316236,2018-03-01,Thursday,March,2026-06-03 13:44:00,Female,Water Tower,Chicago,Yes,Books,77.0,4,308.0,Medium,Gpay,3
+445531158,2018-02-09,Friday,February,2026-06-03 20:19:00,Female,Park Lane,Dallas,No,Fashion,27.0,7,189.0,Low,Gpay,5
+805526095,2018-03-27,Tuesday,March,2026-06-03 18:00:00,Male,Park Lane,Dallas,Yes,Furniture,56.0,1,56.0,Low,Gpay,4
+576523018,2018-02-15,Thursday,February,2026-06-03 12:35:00,Male,Water Tower,Chicago,No,Groceries,82.0,1,82.0,Low,Card,4
+414119922,2018-01-30,Tuesday,January,2026-06-03 11:07:00,Male,Water Tower,Chicago,No,Sporting,44.0,7,308.0,Medium,Card,3
+123247697,2018-02-08,Thursday,February,2026-06-03 20:03:00,Male,Brookfield,NewYork,No,Groceries,22.0,7,154.0,Low,Card,5
+40419058,2018-01-26,Friday,January,2026-06-03 14:53:00,Male,Water Tower,Chicago,Yes,Books,95.0,6,570.0,High,Card,1
+890497298,2018-02-25,Sunday,February,2026-06-03 18:06:00,Female,Water Tower,Chicago,No,Clothing,69.0,2,138.0,Low,Cash,2
+885702268,2018-01-28,Sunday,January,2026-06-03 12:45:00,Male,Brookfield,NewYork,No,Groceries,89.0,6,534.0,High,Card,1
+172252194,2018-03-22,Thursday,March,2026-06-03 20:10:00,Female,Park Lane,Dallas,No,Books,41.0,6,246.0,Medium,Card,4
+866140211,2018-02-25,Sunday,February,2026-06-03 13:34:00,Female,Park Lane,Dallas,No,Clothing,54.0,6,324.0,Medium,Gpay,4
+597678548,2018-03-15,Thursday,March,2026-06-03 17:35:00,Male,Water Tower,Chicago,Yes,Sporting,34.0,3,102.0,Low,Cash,1
+428818456,2018-02-25,Sunday,February,2026-06-03 18:50:00,Male,Park Lane,Dallas,Yes,Books,94.0,5,470.0,High,Cash,2
+236950025,2018-03-09,Friday,March,2026-06-03 12:40:00,Female,Brookfield,NewYork,Yes,Furniture,76.0,4,304.0,Medium,Card,3
+17451639,2018-01-04,Thursday,January,2026-06-03 14:58:00,Male,Water Tower,Chicago,Yes,Groceries,68.0,3,204.0,Medium,Card,3
+102177003,2018-02-11,Sunday,February,2026-06-03 13:48:00,Female,Water Tower,Chicago,No,Furniture,25.0,5,125.0,Low,Card,1
+218871659,2018-03-23,Friday,March,2026-06-03 13:58:00,Female,Park Lane,Dallas,No,Clothing,88.0,2,176.0,Low,Gpay,2
+380559090,2018-03-12,Monday,March,2026-06-03 20:21:00,Male,Brookfield,NewYork,No,Furniture,86.0,3,258.0,Medium,Card,5
+503167669,2018-02-03,Saturday,February,2026-06-03 10:17:00,Female,Water Tower,Chicago,Yes,Books,87.0,1,87.0,Low,Card,4
+717822067,2018-01-17,Wednesday,January,2026-06-03 19:28:00,Female,Park Lane,Dallas,No,Clothing,44.0,4,176.0,Low,Gpay,1
+690344669,2018-03-05,Monday,March,2026-06-03 14:16:00,Female,Brookfield,NewYork,Yes,Sporting,57.0,6,342.0,Medium,Card,4
+142754784,2018-01-19,Friday,January,2026-06-03 16:59:00,Male,Brookfield,NewYork,No,Furniture,73.0,2,146.0,Low,Cash,3
+167561353,2018-02-12,Monday,February,2026-06-03 15:51:00,Male,Water Tower,Chicago,Yes,Sporting,83.0,1,83.0,Low,Card,1
+254046171,2018-02-25,Sunday,February,2026-06-03 20:46:00,Female,Water Tower,Chicago,No,Groceries,41.0,7,287.0,Medium,Gpay,2
+854537427,2018-01-27,Saturday,January,2026-06-03 10:29:00,Female,Water Tower,Chicago,No,Fashion,65.0,5,325.0,Medium,Gpay,1
+747580730,2018-01-08,Monday,January,2026-06-03 20:13:00,Female,Park Lane,Dallas,Yes,Groceries,88.0,6,528.0,High,Gpay,5
+709844678,2018-02-06,Tuesday,February,2026-06-03 14:28:00,Male,Water Tower,Chicago,Yes,Furniture,88.0,2,176.0,Low,Cash,3
+367955130,2018-03-24,Saturday,March,2026-06-03 14:28:00,Male,Park Lane,Dallas,Yes,Clothing,83.0,7,581.0,High,Cash,1
+504897642,2018-03-27,Tuesday,March,2026-06-03 15:26:00,Female,Park Lane,Dallas,No,Fashion,96.0,3,288.0,Medium,Gpay,1
+747422231,2018-01-16,Tuesday,January,2026-06-03 17:22:00,Male,Water Tower,Chicago,Yes,Furniture,35.0,4,140.0,Low,Gpay,5
+811044705,2018-02-01,Thursday,February,2026-06-03 18:15:00,Female,Brookfield,NewYork,Yes,Fashion,19.0,7,133.0,Low,Gpay,1
+127073944,2018-03-23,Friday,March,2026-06-03 12:25:00,Male,Water Tower,Chicago,Yes,Sporting,1.0,2,2.0,Low,Card,4
+871865175,2018-01-07,Sunday,January,2026-06-03 11:40:00,Female,Brookfield,NewYork,No,Groceries,43.0,3,129.0,Low,Gpay,4
+620285039,2018-01-16,Tuesday,January,2026-06-03 20:35:00,Male,Brookfield,NewYork,No,Furniture,25.0,6,150.0,Low,Cash,1
+819356401,2018-01-27,Saturday,January,2026-06-03 11:42:00,Male,Water Tower,Chicago,Yes,Sporting,10.0,2,20.0,Low,Card,2
+911826601,2018-01-06,Saturday,January,2026-06-03 20:31:00,Female,Brookfield,NewYork,No,Sporting,52.0,3,156.0,Low,Card,1
+669032497,2018-03-08,Thursday,March,2026-06-03 14:49:00,Male,Brookfield,NewYork,Yes,Books,38.0,6,228.0,Medium,Card,2
+225317134,2018-03-05,Monday,March,2026-06-03 11:33:00,Male,Water Tower,Chicago,No,Groceries,81.0,5,405.0,High,Cash,2
+653059896,2018-01-04,Thursday,January,2026-06-03 10:22:00,Female,Water Tower,Chicago,No,Furniture,71.0,6,426.0,High,Gpay,1
+127629037,2018-01-31,Wednesday,January,2026-06-03 18:01:00,Male,Park Lane,Dallas,No,Books,53.0,2,106.0,Low,Gpay,2
+758557542,2018-01-24,Wednesday,January,2026-06-03 11:49:00,Male,Water Tower,Chicago,Yes,Furniture,82.0,7,574.0,High,Cash,4
+565456402,2018-01-23,Tuesday,January,2026-06-03 14:51:00,Female,Brookfield,NewYork,No,Groceries,28.0,1,28.0,Low,Cash,3
+194348272,2018-02-11,Sunday,February,2026-06-03 19:38:00,Male,Park Lane,Dallas,Yes,Sporting,28.0,3,84.0,Low,Gpay,3
+193544907,2018-01-05,Friday,January,2026-06-03 14:42:00,Male,Brookfield,NewYork,Yes,Fashion,76.0,2,152.0,Low,Cash,2
+856147365,2018-01-08,Monday,January,2026-06-03 13:28:00,Male,Water Tower,Chicago,No,Groceries,4.0,2,8.0,Low,Gpay,5
+6282900,2018-01-31,Wednesday,January,2026-06-03 15:36:00,Male,Park Lane,Dallas,No,Fashion,87.0,4,348.0,Medium,Gpay,4
+467919747,2018-03-03,Saturday,March,2026-06-03 19:41:00,Male,Park Lane,Dallas,No,Clothing,13.0,2,26.0,Low,Card,1
+927773751,2018-03-12,Monday,March,2026-06-03 11:15:00,Male,Brookfield,NewYork,No,Groceries,97.0,1,97.0,Low,Card,5
+794563981,2018-01-13,Saturday,January,2026-06-03 19:43:00,Female,Brookfield,NewYork,No,Clothing,93.0,5,465.0,High,Cash,1
+956599137,2018-03-07,Wednesday,March,2026-06-03 12:28:00,Female,Park Lane,Dallas,No,Furniture,68.0,5,340.0,Medium,Gpay,2
+324945582,2018-03-05,Monday,March,2026-06-03 19:20:00,Female,Brookfield,NewYork,No,Groceries,21.0,1,21.0,Low,Card,2
+759811716,2018-02-25,Sunday,February,2026-06-03 16:50:00,Female,Brookfield,NewYork,No,Clothing,51.0,1,51.0,Low,Cash,3
+869486626,2018-02-28,Wednesday,February,2026-06-03 12:07:00,Male,Water Tower,Chicago,No,Clothing,56.0,7,392.0,Medium,Gpay,4
+28957439,2018-01-27,Saturday,January,2026-06-03 11:42:00,Male,Brookfield,NewYork,No,Furniture,50.0,7,350.0,Medium,Card,2
+186033359,2018-02-26,Monday,February,2026-06-03 19:51:00,Female,Water Tower,Chicago,Yes,Books,42.0,3,126.0,Low,Card,3
+164945303,2018-03-03,Saturday,March,2026-06-03 14:42:00,Male,Park Lane,Dallas,No,Furniture,38.0,4,152.0,Low,Gpay,1
+702697570,2018-02-02,Friday,February,2026-06-03 18:19:00,Male,Water Tower,Chicago,Yes,Groceries,96.0,1,96.0,Low,Cash,1
+867298669,2018-03-06,Tuesday,March,2026-06-03 17:49:00,Female,Park Lane,Dallas,Yes,Books,62.0,3,186.0,Low,Card,4
+636062627,2018-03-11,Sunday,March,2026-06-03 18:44:00,Female,Park Lane,Dallas,No,Books,46.0,4,184.0,Low,Cash,5
+338808619,2018-01-12,Friday,January,2026-06-03 19:46:00,Male,Water Tower,Chicago,No,Fashion,71.0,5,355.0,Medium,Card,1
+874941247,2018-03-01,Thursday,March,2026-06-03 11:24:00,Female,Brookfield,NewYork,No,Sporting,27.0,1,27.0,Low,Cash,3
+154062156,2018-03-14,Wednesday,March,2026-06-03 18:33:00,Female,Brookfield,NewYork,No,Groceries,16.0,7,112.0,Low,Gpay,5
+309278030,2018-01-15,Monday,January,2026-06-03 20:43:00,Female,Brookfield,NewYork,No,Books,63.0,3,189.0,Low,Gpay,1
+408055541,2018-02-18,Sunday,February,2026-06-03 10:12:00,Female,Brookfield,NewYork,Yes,Groceries,65.0,3,195.0,Low,Cash,5
+304439467,2018-02-19,Monday,February,2026-06-03 19:07:00,Female,Park Lane,Dallas,No,Fashion,70.0,2,140.0,Low,Cash,4
+790571300,2018-02-07,Wednesday,February,2026-06-03 10:05:00,Male,Brookfield,NewYork,Yes,Furniture,70.0,2,140.0,Low,Cash,1
+554782714,2018-02-22,Thursday,February,2026-06-03 11:51:00,Male,Park Lane,Dallas,Yes,Clothing,93.0,4,372.0,Medium,Card,5
+407767721,2018-02-13,Tuesday,February,2026-06-03 13:30:00,Male,Water Tower,Chicago,Yes,Groceries,12.0,1,12.0,Low,Cash,3
+976927980,2018-01-06,Saturday,January,2026-06-03 10:23:00,Female,Park Lane,Dallas,Yes,Furniture,70.0,7,490.0,High,Cash,3
+882195569,2018-02-19,Monday,February,2026-06-03 19:53:00,Female,Park Lane,Dallas,No,Sporting,99.0,6,594.0,High,Gpay,2
+830582585,2018-01-17,Wednesday,January,2026-06-03 15:27:00,Female,Water Tower,Chicago,Yes,Books,56.0,6,336.0,Medium,Gpay,1
+847040407,2018-03-21,Wednesday,March,2026-06-03 14:42:00,Female,Park Lane,Dallas,No,Groceries,91.0,2,182.0,Low,Card,1
+169212942,2018-03-12,Monday,March,2026-06-03 10:50:00,Male,Park Lane,Dallas,Yes,Clothing,65.0,4,260.0,Medium,Gpay,3
+953734168,2018-01-29,Monday,January,2026-06-03 11:29:00,Male,Water Tower,Chicago,Yes,Groceries,16.0,4,64.0,Low,Cash,5
+638590060,2018-01-27,Saturday,January,2026-06-03 18:08:00,Female,Water Tower,Chicago,No,Groceries,34.0,6,204.0,Medium,Gpay,5
+931257784,2018-03-10,Saturday,March,2026-06-03 18:43:00,Male,Brookfield,NewYork,Yes,Books,97.0,3,291.0,Medium,Gpay,3
+750628254,2018-02-06,Tuesday,February,2026-06-03 18:21:00,Female,Park Lane,Dallas,No,Clothing,78.0,3,234.0,Medium,Cash,5
+770662321,2018-02-12,Monday,February,2026-06-03 16:57:00,Female,Water Tower,Chicago,No,Books,68.0,7,476.0,High,Cash,4
+83503308,2018-02-12,Monday,February,2026-06-03 12:45:00,Female,Brookfield,NewYork,Yes,Clothing,87.0,6,522.0,High,Cash,1
+412890331,2018-03-21,Wednesday,March,2026-06-03 11:48:00,Male,Park Lane,Dallas,Yes,Furniture,8.0,2,16.0,Low,Gpay,2
+495407670,2018-03-30,Friday,March,2026-06-03 15:30:00,Female,Park Lane,Dallas,Yes,Groceries,3.0,7,21.0,Low,Card,2
+248326361,2018-03-10,Saturday,March,2026-06-03 13:12:00,Male,Park Lane,Dallas,Yes,Fashion,92.0,5,460.0,High,Card,5
+815235226,2018-02-03,Saturday,February,2026-06-03 19:30:00,Female,Brookfield,NewYork,No,Groceries,44.0,2,88.0,Low,Card,4
+602216707,2018-02-25,Sunday,February,2026-06-03 16:54:00,Male,Brookfield,NewYork,Yes,Furniture,7.0,6,42.0,Low,Gpay,3
+593868358,2018-01-26,Friday,January,2026-06-03 17:15:00,Male,Park Lane,Dallas,No,Groceries,35.0,7,245.0,Medium,Gpay,2
+193869187,2018-02-05,Monday,February,2026-06-03 20:08:00,Male,Water Tower,Chicago,No,Fashion,28.0,1,28.0,Low,Card,5
+197573958,2018-01-19,Friday,January,2026-06-03 14:04:00,Male,Brookfield,NewYork,No,Fashion,95.0,1,95.0,Low,Cash,1
+285192890,2018-03-30,Friday,March,2026-06-03 18:30:00,Female,Park Lane,Dallas,No,Groceries,23.0,2,46.0,Low,Card,4
+711435779,2018-01-08,Monday,January,2026-06-03 19:09:00,Male,Water Tower,Chicago,Yes,Groceries,33.0,7,231.0,Medium,Cash,5
+44612623,2018-03-29,Thursday,March,2026-06-03 19:30:00,Male,Park Lane,Dallas,No,Sporting,91.0,5,455.0,High,Gpay,4
+35014815,2018-02-13,Tuesday,February,2026-06-03 15:04:00,Male,Water Tower,Chicago,Yes,Sporting,31.0,7,217.0,Medium,Cash,4
+167762066,2018-03-23,Friday,March,2026-06-03 17:47:00,Female,Water Tower,Chicago,No,Groceries,88.0,6,528.0,High,Cash,4
+11921691,2018-01-15,Monday,January,2026-06-03 10:23:00,Male,Park Lane,Dallas,Yes,Sporting,37.0,3,111.0,Low,Cash,4
+341819247,2018-01-16,Tuesday,January,2026-06-03 14:55:00,Male,Water Tower,Chicago,Yes,Fashion,69.0,2,138.0,Low,Cash,4
+85210798,2018-02-28,Wednesday,February,2026-06-03 12:27:00,Female,Park Lane,Dallas,Yes,Books,23.0,2,46.0,Low,Cash,5
+994218721,2018-03-15,Thursday,March,2026-06-03 12:52:00,Male,Water Tower,Chicago,Yes,Clothing,94.0,1,94.0,Low,Gpay,1
+535101024,2018-02-04,Sunday,February,2026-06-03 15:06:00,Male,Park Lane,Dallas,No,Clothing,77.0,6,462.0,High,Cash,5
+410200704,2018-03-22,Thursday,March,2026-06-03 12:46:00,Male,Brookfield,NewYork,No,Furniture,15.0,6,90.0,Low,Gpay,1
+886247303,2018-01-26,Friday,January,2026-06-03 10:36:00,Female,Brookfield,NewYork,No,Sporting,24.0,4,96.0,Low,Cash,3
+671810515,2018-02-17,Saturday,February,2026-06-03 10:39:00,Male,Brookfield,NewYork,No,Furniture,99.0,3,297.0,Medium,Card,5
+198515038,2018-02-17,Saturday,February,2026-06-03 18:45:00,Female,Brookfield,NewYork,No,Books,33.0,1,33.0,Low,Gpay,1
+601235443,2018-03-21,Wednesday,March,2026-06-03 10:11:00,Female,Park Lane,Dallas,Yes,Clothing,6.0,4,24.0,Low,Cash,5
+135954136,2018-01-08,Monday,January,2026-06-03 14:19:00,Female,Brookfield,NewYork,Yes,Groceries,34.0,5,170.0,Low,Gpay,1
+574582487,2018-03-22,Thursday,March,2026-06-03 19:06:00,Female,Water Tower,Chicago,Yes,Clothing,45.0,7,315.0,Medium,Cash,2
+479562097,2018-02-16,Friday,February,2026-06-03 14:03:00,Female,Brookfield,NewYork,No,Books,39.0,1,39.0,Low,Cash,2
+502303917,2018-02-18,Sunday,February,2026-06-03 16:11:00,Female,Water Tower,Chicago,No,Clothing,26.0,6,156.0,Low,Cash,5
+974725596,2018-03-02,Friday,March,2026-06-03 13:29:00,Male,Brookfield,NewYork,Yes,Clothing,76.0,5,380.0,Medium,Cash,1
+696537741,2018-03-09,Friday,March,2026-06-03 16:09:00,Male,Water Tower,Chicago,No,Sporting,48.0,5,240.0,Medium,Gpay,4
+526319290,2018-02-21,Wednesday,February,2026-06-03 18:48:00,Female,Park Lane,Dallas,No,Books,49.0,3,147.0,Low,Cash,1
+713844700,2018-02-03,Saturday,February,2026-06-03 15:31:00,Male,Park Lane,Dallas,Yes,Fashion,84.0,7,588.0,High,Card,3
+43827556,2018-02-09,Friday,February,2026-06-03 18:56:00,Female,Water Tower,Chicago,Yes,Sporting,59.0,4,236.0,Medium,Cash,4
+477509532,2018-03-02,Friday,March,2026-06-03 15:36:00,Male,Brookfield,NewYork,No,Clothing,97.0,6,582.0,High,Card,1
+44171400,2018-02-16,Friday,February,2026-06-03 16:58:00,Male,Brookfield,NewYork,Yes,Furniture,97.0,5,485.0,High,Cash,1
+153179845,2018-03-23,Friday,March,2026-06-03 19:44:00,Male,Brookfield,NewYork,Yes,Fashion,63.0,7,441.0,High,Card,2
+117928091,2018-01-12,Friday,January,2026-06-03 16:26:00,Male,Park Lane,Dallas,No,Furniture,29.0,2,58.0,Low,Gpay,4
+934709822,2018-01-12,Friday,January,2026-06-03 20:24:00,Female,Park Lane,Dallas,No,Groceries,75.0,4,300.0,Medium,Card,5
+810206591,2018-03-23,Friday,March,2026-06-03 10:02:00,Female,Brookfield,NewYork,No,Groceries,26.0,4,104.0,Low,Card,3
+356354089,2018-01-31,Wednesday,January,2026-06-03 12:43:00,Male,Water Tower,Chicago,No,Books,83.0,3,249.0,Medium,Cash,3
+443595980,2018-02-15,Thursday,February,2026-06-03 20:54:00,Male,Water Tower,Chicago,Yes,Sporting,39.0,2,78.0,Low,Cash,4
+198739739,2018-02-07,Wednesday,February,2026-06-03 13:00:00,Female,Brookfield,NewYork,No,Sporting,64.0,1,64.0,Low,Cash,3
+78470616,2018-02-09,Friday,February,2026-06-03 12:36:00,Female,Brookfield,NewYork,Yes,Groceries,57.0,1,57.0,Low,Card,4
+918276539,2018-01-17,Wednesday,January,2026-06-03 15:34:00,Female,Park Lane,Dallas,Yes,Sporting,99.0,3,297.0,Medium,Gpay,2
+654769276,2018-02-26,Monday,February,2026-06-03 12:07:00,Male,Park Lane,Dallas,Yes,Clothing,86.0,1,86.0,Low,Gpay,3
+674917531,2018-01-11,Thursday,January,2026-06-03 17:59:00,Male,Water Tower,Chicago,Yes,Clothing,29.0,6,174.0,Low,Cash,1
+456554642,2018-01-19,Friday,January,2026-06-03 19:44:00,Female,Water Tower,Chicago,Yes,Books,40.0,5,200.0,Low,Card,4
+36650026,2018-01-05,Friday,January,2026-06-03 12:27:00,Female,Water Tower,Chicago,No,Clothing,84.0,5,420.0,High,Card,4
+281704062,2018-03-14,Wednesday,March,2026-06-03 10:11:00,Female,Brookfield,NewYork,Yes,Sporting,93.0,6,558.0,High,Cash,3
+829100088,2018-01-14,Sunday,January,2026-06-03 18:58:00,Male,Brookfield,NewYork,Yes,Clothing,67.0,3,201.0,Medium,Gpay,1
+57624229,2018-03-21,Wednesday,March,2026-06-03 19:22:00,Female,Park Lane,Dallas,No,Books,95.0,7,665.0,High,Gpay,4
+106617595,2018-03-19,Monday,March,2026-06-03 18:58:00,Female,Water Tower,Chicago,Yes,Fashion,69.0,5,345.0,Medium,Cash,4
+421671027,2018-01-05,Friday,January,2026-06-03 17:48:00,Female,Water Tower,Chicago,No,Furniture,45.0,6,270.0,Medium,Card,5
+31744605,2018-02-23,Friday,February,2026-06-03 15:28:00,Male,Brookfield,NewYork,No,Sporting,83.0,4,332.0,Medium,Card,3
+861879814,2018-01-25,Thursday,January,2026-06-03 11:40:00,Female,Water Tower,Chicago,Yes,Groceries,38.0,3,114.0,Low,Card,2
+450751838,2018-03-07,Wednesday,March,2026-06-03 16:55:00,Male,Water Tower,Chicago,No,Clothing,29.0,6,174.0,Low,Cash,3
+97675796,2018-02-22,Thursday,February,2026-06-03 14:44:00,Male,Water Tower,Chicago,No,Books,85.0,5,425.0,High,Cash,4
+984776599,2018-03-14,Wednesday,March,2026-06-03 20:46:00,Female,Brookfield,NewYork,Yes,Groceries,18.0,7,126.0,Low,Cash,5
+257572368,2018-01-27,Saturday,January,2026-06-03 13:51:00,Female,Brookfield,NewYork,Yes,Furniture,56.0,3,168.0,Low,Gpay,2
+562957126,2018-02-23,Friday,February,2026-06-03 15:10:00,Female,Park Lane,Dallas,No,Clothing,40.0,6,240.0,Medium,Gpay,3
+195736009,2018-03-11,Sunday,March,2026-06-03 12:28:00,Male,Brookfield,NewYork,No,Fashion,52.0,5,260.0,Medium,Gpay,5
+2901533,2018-01-23,Tuesday,January,2026-06-03 16:28:00,Female,Park Lane,Dallas,Yes,Groceries,46.0,5,230.0,Medium,Gpay,4
+674079919,2018-02-16,Friday,February,2026-06-03 17:36:00,Female,Water Tower,Chicago,Yes,Sporting,58.0,3,174.0,Low,Gpay,1
+695051096,2018-03-11,Sunday,March,2026-06-03 17:08:00,Male,Water Tower,Chicago,Yes,Groceries,51.0,6,306.0,Medium,Cash,3
+641757008,2018-03-07,Wednesday,March,2026-06-03 12:15:00,Female,Brookfield,NewYork,No,Books,14.0,6,84.0,Low,Cash,2
+824317466,2018-02-13,Tuesday,February,2026-06-03 18:24:00,Female,Brookfield,NewYork,No,Furniture,18.0,4,72.0,Low,Cash,4
+68184042,2018-02-27,Tuesday,February,2026-06-03 10:52:00,Female,Brookfield,NewYork,No,Fashion,48.0,7,336.0,Medium,Gpay,5
+221236147,2018-01-23,Tuesday,January,2026-06-03 14:41:00,Female,Brookfield,NewYork,Yes,Sporting,49.0,4,196.0,Low,Gpay,4
+655804460,2018-02-06,Tuesday,February,2026-06-03 12:39:00,Female,Brookfield,NewYork,No,Fashion,6.0,7,42.0,Low,Gpay,5
+685355728,2018-03-14,Wednesday,March,2026-06-03 16:28:00,Male,Park Lane,Dallas,Yes,Sporting,12.0,7,84.0,Low,Gpay,5
+779568185,2018-02-01,Thursday,February,2026-06-03 19:20:00,Female,Park Lane,Dallas,Yes,Groceries,61.0,6,366.0,Medium,Gpay,2
+978367775,2018-01-27,Saturday,January,2026-06-03 15:26:00,Female,Park Lane,Dallas,No,Books,96.0,3,288.0,Medium,Cash,5
+504581657,2018-02-06,Tuesday,February,2026-06-03 10:06:00,Male,Water Tower,Chicago,No,Fashion,3.0,2,6.0,Low,Cash,4
+109398336,2018-01-05,Friday,January,2026-06-03 12:38:00,Male,Water Tower,Chicago,No,Clothing,25.0,4,100.0,Low,Card,2
+932692079,2018-02-07,Wednesday,February,2026-06-03 12:23:00,Male,Water Tower,Chicago,Yes,Sporting,85.0,5,425.0,High,Card,4
+698871347,2018-02-15,Thursday,February,2026-06-03 15:31:00,Female,Brookfield,NewYork,No,Furniture,80.0,3,240.0,Medium,Gpay,5
+162175366,2018-02-20,Tuesday,February,2026-06-03 11:52:00,Male,Water Tower,Chicago,Yes,Sporting,76.0,4,304.0,Medium,Gpay,4
+232489616,2018-02-27,Tuesday,February,2026-06-03 14:19:00,Female,Water Tower,Chicago,No,Fashion,9.0,2,18.0,Low,Gpay,3
+129579696,2018-02-07,Wednesday,February,2026-06-03 18:10:00,Female,Brookfield,NewYork,No,Fashion,45.0,7,315.0,Medium,Gpay,3
+728354527,2018-01-30,Tuesday,January,2026-06-03 12:42:00,Male,Brookfield,NewYork,No,Groceries,6.0,1,6.0,Low,Gpay,4
+684643372,2018-03-28,Wednesday,March,2026-06-03 18:30:00,Female,Park Lane,Dallas,Yes,Furniture,12.0,1,12.0,Low,Card,5
+516381043,2018-01-01,Monday,January,2026-06-03 19:42:00,Female,Brookfield,NewYork,Yes,Books,42.0,3,126.0,Low,Gpay,5
+651691190,2018-01-22,Monday,January,2026-06-03 11:16:00,Male,Water Tower,Chicago,Yes,Books,29.0,5,145.0,Low,Cash,5
+451407692,2018-01-21,Sunday,January,2026-06-03 13:07:00,Male,Brookfield,NewYork,No,Sporting,14.0,3,42.0,Low,Card,3
+905773587,2018-01-01,Monday,January,2026-06-03 19:17:00,Female,Water Tower,Chicago,Yes,Fashion,88.0,6,528.0,High,Card,4
+384317890,2018-03-30,Friday,March,2026-06-03 15:14:00,Female,Water Tower,Chicago,No,Groceries,85.0,6,510.0,High,Gpay,1
+768931253,2018-02-16,Friday,February,2026-06-03 19:14:00,Female,Park Lane,Dallas,Yes,Groceries,82.0,4,328.0,Medium,Gpay,4
+236780335,2018-03-24,Saturday,March,2026-06-03 20:51:00,Female,Park Lane,Dallas,No,Clothing,7.0,7,49.0,Low,Cash,5
+269353290,2018-01-01,Monday,January,2026-06-03 12:29:00,Male,Water Tower,Chicago,No,Furniture,49.0,4,196.0,Low,Cash,5
+655696962,2018-01-19,Friday,January,2026-06-03 15:48:00,Female,Brookfield,NewYork,No,Furniture,65.0,6,390.0,Medium,Cash,2
+39980231,2018-01-01,Monday,January,2026-06-03 19:55:00,Male,Water Tower,Chicago,No,Groceries,85.0,2,170.0,Low,Card,1
+257066068,2018-03-06,Tuesday,March,2026-06-03 15:10:00,Male,Park Lane,Dallas,Yes,Furniture,16.0,4,64.0,Low,Cash,1
+227543927,2018-03-03,Saturday,March,2026-06-03 18:44:00,Female,Water Tower,Chicago,No,Clothing,14.0,1,14.0,Low,Gpay,5
+652794877,2018-02-07,Wednesday,February,2026-06-03 10:31:00,Female,Park Lane,Dallas,Yes,Groceries,86.0,2,172.0,Low,Gpay,5
+680516215,2018-03-05,Monday,March,2026-06-03 11:36:00,Male,Brookfield,NewYork,Yes,Books,25.0,6,150.0,Low,Cash,1
+238225027,2018-01-09,Tuesday,January,2026-06-03 16:23:00,Female,Water Tower,Chicago,No,Sporting,52.0,6,312.0,Medium,Cash,2
+655465754,2018-03-10,Saturday,March,2026-06-03 14:33:00,Male,Park Lane,Dallas,No,Books,10.0,2,20.0,Low,Gpay,3
+506086474,2018-03-25,Sunday,March,2026-06-03 19:53:00,Male,Park Lane,Dallas,Yes,Groceries,57.0,2,114.0,Low,Card,4
+174529819,2018-01-29,Monday,January,2026-06-03 16:40:00,Female,Water Tower,Chicago,Yes,Clothing,85.0,2,170.0,Low,Cash,4
+50717104,2018-01-03,Wednesday,January,2026-06-03 11:45:00,Male,Brookfield,NewYork,Yes,Clothing,98.0,4,392.0,Medium,Cash,2
+158853558,2018-02-06,Tuesday,February,2026-06-03 14:38:00,Female,Brookfield,NewYork,No,Clothing,25.0,7,175.0,Low,Card,5
+494243757,2018-01-28,Sunday,January,2026-06-03 20:38:00,Female,Park Lane,Dallas,Yes,Sporting,84.0,6,504.0,High,Card,2
+308815481,2018-02-06,Tuesday,February,2026-06-03 12:09:00,Male,Brookfield,NewYork,Yes,Furniture,41.0,3,123.0,Low,Gpay,2
+66715258,2018-01-17,Wednesday,January,2026-06-03 13:01:00,Male,Brookfield,NewYork,Yes,Groceries,67.0,1,67.0,Low,Cash,2
+984652834,2018-03-28,Wednesday,March,2026-06-03 20:01:00,Male,Brookfield,NewYork,Yes,Books,5.0,4,20.0,Low,Card,3
+220725507,2018-01-08,Monday,January,2026-06-03 11:51:00,Female,Park Lane,Dallas,No,Clothing,82.0,3,246.0,Medium,Card,1
+721856885,2018-01-10,Wednesday,January,2026-06-03 17:59:00,Female,Brookfield,NewYork,No,Fashion,30.0,1,30.0,Low,Card,2
+376812677,2018-01-10,Wednesday,January,2026-06-03 18:04:00,Female,Brookfield,NewYork,No,Furniture,11.0,3,33.0,Low,Cash,4
+483683998,2018-01-09,Tuesday,January,2026-06-03 17:38:00,Female,Park Lane,Dallas,Yes,Sporting,58.0,3,174.0,Low,Gpay,4
+50938395,2018-02-23,Friday,February,2026-06-03 19:48:00,Female,Park Lane,Dallas,Yes,Sporting,85.0,1,85.0,Low,Cash,4
+875705737,2018-02-15,Thursday,February,2026-06-03 16:18:00,Female,Brookfield,NewYork,Yes,Fashion,22.0,5,110.0,Low,Cash,3
+284834144,2018-03-24,Saturday,March,2026-06-03 17:15:00,Male,Brookfield,NewYork,No,Fashion,56.0,2,112.0,Low,Gpay,3
+720008984,2018-01-13,Saturday,January,2026-06-03 12:51:00,Male,Brookfield,NewYork,No,Fashion,25.0,7,175.0,Low,Gpay,2
+512270617,2018-01-26,Friday,January,2026-06-03 15:27:00,Male,Brookfield,NewYork,No,Sporting,65.0,6,390.0,Medium,Gpay,2
+83087091,2018-01-23,Tuesday,January,2026-06-03 12:23:00,Male,Brookfield,NewYork,Yes,Furniture,28.0,3,84.0,Low,Gpay,4
+980805952,2018-03-14,Wednesday,March,2026-06-03 18:42:00,Male,Water Tower,Chicago,Yes,Clothing,19.0,2,38.0,Low,Card,2
+873393858,2018-03-16,Friday,March,2026-06-03 10:33:00,Female,Water Tower,Chicago,Yes,Fashion,42.0,3,126.0,Low,Gpay,5
+293869367,2018-03-12,Monday,March,2026-06-03 14:00:00,Female,Park Lane,Dallas,No,Clothing,95.0,5,475.0,High,Cash,1
+851846362,2018-01-11,Thursday,January,2026-06-03 19:09:00,Female,Park Lane,Dallas,No,Groceries,10.0,4,40.0,Low,Card,2
+929834878,2018-02-05,Monday,February,2026-06-03 14:15:00,Male,Water Tower,Chicago,No,Books,5.0,7,35.0,Low,Card,1
+539267224,2018-01-11,Thursday,January,2026-06-03 18:58:00,Male,Park Lane,Dallas,No,Furniture,93.0,7,651.0,High,Gpay,1
+73853764,2018-01-26,Friday,January,2026-06-03 19:06:00,Female,Park Lane,Dallas,Yes,Sporting,12.0,2,24.0,Low,Cash,1
+344986480,2018-01-16,Tuesday,January,2026-06-03 16:03:00,Male,Water Tower,Chicago,Yes,Furniture,80.0,6,480.0,High,Cash,4
+308591699,2018-03-30,Friday,March,2026-06-03 14:26:00,Female,Water Tower,Chicago,No,Clothing,6.0,2,12.0,Low,Gpay,4
+894833640,2018-02-23,Friday,February,2026-06-03 16:42:00,Male,Park Lane,Dallas,Yes,Fashion,35.0,5,175.0,Low,Cash,5
+648725310,2018-01-17,Wednesday,January,2026-06-03 12:02:00,Male,Park Lane,Dallas,Yes,Books,64.0,1,64.0,Low,Card,2
+196926207,2018-03-03,Saturday,March,2026-06-03 13:08:00,Female,Brookfield,NewYork,Yes,Clothing,7.0,4,28.0,Low,Cash,3
+771290209,2018-02-09,Friday,February,2026-06-03 15:27:00,Female,Brookfield,NewYork,No,Books,48.0,4,192.0,Low,Cash,4
+970507874,2018-01-28,Sunday,January,2026-06-03 20:14:00,Male,Water Tower,Chicago,Yes,Groceries,49.0,6,294.0,Medium,Cash,2
+743057968,2018-01-20,Saturday,January,2026-06-03 12:48:00,Male,Park Lane,Dallas,No,Fashion,50.0,4,200.0,Low,Gpay,1
+275243680,2018-02-09,Friday,February,2026-06-03 10:19:00,Male,Brookfield,NewYork,Yes,Groceries,65.0,2,130.0,Low,Cash,4
+933497703,2018-03-15,Thursday,March,2026-06-03 17:53:00,Male,Park Lane,Dallas,No,Books,56.0,5,280.0,Medium,Gpay,1
+942593948,2018-03-03,Saturday,March,2026-06-03 12:02:00,Male,Water Tower,Chicago,No,Furniture,26.0,6,156.0,Low,Card,3
+437120776,2018-01-16,Tuesday,January,2026-06-03 12:31:00,Female,Brookfield,NewYork,No,Furniture,82.0,1,82.0,Low,Gpay,2
+232051542,2018-03-22,Thursday,March,2026-06-03 10:48:00,Male,Park Lane,Dallas,No,Fashion,99.0,2,198.0,Low,Card,3
+224808763,2018-01-19,Friday,January,2026-06-03 11:30:00,Male,Park Lane,Dallas,Yes,Clothing,33.0,3,99.0,Low,Card,2
+446141418,2018-02-27,Tuesday,February,2026-06-03 12:44:00,Female,Water Tower,Chicago,Yes,Groceries,25.0,1,25.0,Low,Gpay,4
+365905322,2018-03-02,Friday,March,2026-06-03 17:03:00,Female,Brookfield,NewYork,Yes,Groceries,37.0,5,185.0,Low,Cash,3
+850283822,2018-02-19,Monday,February,2026-06-03 11:32:00,Female,Park Lane,Dallas,No,Books,75.0,2,150.0,Low,Card,2
+180358734,2018-02-08,Thursday,February,2026-06-03 16:44:00,Female,Water Tower,Chicago,No,Clothing,70.0,4,280.0,Medium,Cash,2
+396167986,2018-02-28,Wednesday,February,2026-06-03 16:34:00,Male,Water Tower,Chicago,Yes,Sporting,39.0,5,195.0,Low,Card,3
+715102058,2018-01-22,Monday,January,2026-06-03 19:07:00,Female,Water Tower,Chicago,Yes,Sporting,67.0,2,134.0,Low,Gpay,1
+257556227,2018-02-25,Sunday,February,2026-06-03 18:10:00,Female,Water Tower,Chicago,Yes,Fashion,61.0,4,244.0,Medium,Card,5
+816349456,2018-03-02,Friday,March,2026-06-03 13:07:00,Male,Water Tower,Chicago,No,Furniture,45.0,3,135.0,Low,Gpay,2
+700946312,2018-01-08,Monday,January,2026-06-03 13:19:00,Male,Brookfield,NewYork,Yes,Furniture,56.0,2,112.0,Low,Gpay,3
+567888249,2018-01-03,Wednesday,January,2026-06-03 13:46:00,Male,Park Lane,Dallas,No,Books,89.0,7,623.0,High,Card,1
+53895458,2018-02-03,Saturday,February,2026-06-03 12:47:00,Female,Park Lane,Dallas,Yes,Furniture,46.0,2,92.0,Low,Cash,5
+466204296,2018-01-29,Monday,January,2026-06-03 10:43:00,Female,Water Tower,Chicago,No,Sporting,59.0,5,295.0,Medium,Cash,4
+552810173,2018-02-07,Wednesday,February,2026-06-03 17:20:00,Female,Water Tower,Chicago,No,Fashion,12.0,5,60.0,Low,Card,1
+340961943,2018-03-17,Saturday,March,2026-06-03 20:59:00,Female,Park Lane,Dallas,No,Fashion,85.0,3,255.0,Medium,Card,1
+279515562,2018-01-30,Tuesday,January,2026-06-03 17:46:00,Female,Water Tower,Chicago,Yes,Sporting,84.0,7,588.0,High,Gpay,3
+341665434,2018-01-07,Sunday,January,2026-06-03 16:37:00,Male,Brookfield,NewYork,No,Clothing,34.0,5,170.0,Low,Card,5
+689943317,2018-02-28,Wednesday,February,2026-06-03 11:36:00,Male,Park Lane,Dallas,Yes,Groceries,73.0,1,73.0,Low,Cash,3
+889075720,2018-01-24,Wednesday,January,2026-06-03 12:14:00,Male,Brookfield,NewYork,Yes,Sporting,67.0,6,402.0,High,Card,5
+934951636,2018-03-11,Sunday,March,2026-06-03 18:08:00,Female,Water Tower,Chicago,Yes,Fashion,42.0,2,84.0,Low,Cash,1
+127091451,2018-02-19,Monday,February,2026-06-03 15:44:00,Male,Park Lane,Dallas,No,Furniture,67.0,4,268.0,Medium,Card,5
+136871602,2018-02-13,Tuesday,February,2026-06-03 19:20:00,Female,Park Lane,Dallas,Yes,Clothing,77.0,7,539.0,High,Cash,4
+354394929,2018-02-06,Tuesday,February,2026-06-03 17:01:00,Male,Brookfield,NewYork,No,Books,83.0,4,332.0,Medium,Card,3
+458245119,2018-03-20,Tuesday,March,2026-06-03 15:30:00,Male,Brookfield,NewYork,Yes,Sporting,71.0,5,355.0,Medium,Gpay,1
+115408508,2018-03-08,Thursday,March,2026-06-03 19:57:00,Male,Park Lane,Dallas,Yes,Fashion,1.0,2,2.0,Low,Gpay,3
+451887581,2018-03-16,Friday,March,2026-06-03 13:29:00,Female,Park Lane,Dallas,No,Books,39.0,6,234.0,Medium,Gpay,3
+990325172,2018-01-16,Tuesday,January,2026-06-03 11:40:00,Female,Water Tower,Chicago,Yes,Books,95.0,7,665.0,High,Card,5
+162506569,2018-03-19,Monday,March,2026-06-03 16:34:00,Female,Park Lane,Dallas,No,Clothing,34.0,5,170.0,Low,Card,4
+750613805,2018-03-01,Thursday,March,2026-06-03 11:58:00,Male,Water Tower,Chicago,Yes,Sporting,79.0,7,553.0,High,Card,3
+436393848,2018-01-14,Sunday,January,2026-06-03 20:39:00,Male,Water Tower,Chicago,No,Clothing,1.0,2,2.0,Low,Cash,5
+999023942,2018-03-09,Friday,March,2026-06-03 10:02:00,Female,Park Lane,Dallas,No,Books,40.0,7,280.0,Medium,Gpay,3
+142065472,2018-02-04,Sunday,February,2026-06-03 20:52:00,Male,Brookfield,NewYork,No,Furniture,65.0,5,325.0,Medium,Gpay,2
+954425515,2018-01-08,Monday,January,2026-06-03 16:24:00,Male,Park Lane,Dallas,Yes,Clothing,80.0,4,320.0,Medium,Gpay,1
+594159553,2018-02-09,Friday,February,2026-06-03 18:07:00,Female,Brookfield,NewYork,Yes,Groceries,64.0,4,256.0,Medium,Gpay,5
+887631897,2018-03-25,Sunday,March,2026-06-03 19:33:00,Male,Park Lane,Dallas,Yes,Furniture,37.0,5,185.0,Low,Cash,5
+566548997,2018-02-18,Sunday,February,2026-06-03 20:19:00,Female,Water Tower,Chicago,Yes,Sporting,32.0,6,192.0,Low,Gpay,1
+283618078,2018-02-07,Wednesday,February,2026-06-03 14:43:00,Male,Water Tower,Chicago,No,Furniture,51.0,1,51.0,Low,Gpay,2
+367742401,2018-03-27,Tuesday,March,2026-06-03 15:29:00,Female,Brookfield,NewYork,No,Fashion,49.0,5,245.0,Medium,Card,1
+970329849,2018-03-26,Monday,March,2026-06-03 14:42:00,Female,Brookfield,NewYork,No,Fashion,32.0,6,192.0,Low,Cash,5
+599614471,2018-01-14,Sunday,January,2026-06-03 15:42:00,Male,Water Tower,Chicago,No,Furniture,44.0,4,176.0,Low,Cash,2
+789777993,2018-02-22,Thursday,February,2026-06-03 16:45:00,Male,Water Tower,Chicago,Yes,Furniture,87.0,6,522.0,High,Gpay,1
+324836028,2018-02-22,Thursday,February,2026-06-03 16:28:00,Male,Brookfield,NewYork,No,Fashion,66.0,6,396.0,Medium,Card,3
+421646627,2018-02-02,Friday,February,2026-06-03 19:17:00,Female,Brookfield,NewYork,Yes,Groceries,87.0,4,348.0,Medium,Cash,1
+402693529,2018-01-13,Saturday,January,2026-06-03 20:23:00,Female,Park Lane,Dallas,Yes,Furniture,10.0,2,20.0,Low,Gpay,3
+434659485,2018-03-30,Friday,March,2026-06-03 18:22:00,Male,Park Lane,Dallas,No,Books,27.0,4,108.0,Low,Gpay,2
+19060686,2018-02-10,Saturday,February,2026-06-03 10:29:00,Male,Brookfield,NewYork,Yes,Clothing,95.0,1,95.0,Low,Gpay,2
+721015243,2018-03-01,Thursday,March,2026-06-03 15:28:00,Female,Brookfield,NewYork,No,Sporting,27.0,1,27.0,Low,Card,1
+813988025,2018-01-07,Sunday,January,2026-06-03 17:29:00,Female,Water Tower,Chicago,Yes,Books,45.0,1,45.0,Low,Cash,1
+52015959,2018-03-16,Friday,March,2026-06-03 10:17:00,Female,Water Tower,Chicago,No,Fashion,63.0,4,252.0,Medium,Cash,3
+207722768,2018-03-20,Tuesday,March,2026-06-03 16:53:00,Male,Water Tower,Chicago,No,Clothing,4.0,4,16.0,Low,Gpay,1
+419393017,2018-02-05,Monday,February,2026-06-03 15:24:00,Female,Water Tower,Chicago,No,Books,41.0,7,287.0,Medium,Cash,5
+329091275,2018-01-03,Wednesday,January,2026-06-03 15:15:00,Male,Brookfield,NewYork,Yes,Clothing,86.0,7,602.0,High,Card,2
+140726998,2018-03-14,Wednesday,March,2026-06-03 10:55:00,Male,Water Tower,Chicago,Yes,Groceries,83.0,5,415.0,High,Gpay,1
+473326547,2018-03-04,Sunday,March,2026-06-03 11:23:00,Female,Park Lane,Dallas,Yes,Clothing,52.0,7,364.0,Medium,Gpay,4
+905833326,2018-01-29,Monday,January,2026-06-03 11:21:00,Female,Water Tower,Chicago,No,Fashion,76.0,3,228.0,Medium,Gpay,2
+951990735,2018-01-01,Monday,January,2026-06-03 11:43:00,Male,Water Tower,Chicago,No,Sporting,55.0,3,165.0,Low,Gpay,4
+224237578,2018-03-05,Monday,March,2026-06-03 10:39:00,Female,Brookfield,NewYork,No,Fashion,84.0,6,504.0,High,Card,2
+66129710,2018-01-19,Friday,January,2026-06-03 16:24:00,Female,Park Lane,Dallas,No,Furniture,63.0,7,441.0,High,Cash,4
+255215946,2018-03-09,Friday,March,2026-06-03 11:59:00,Male,Park Lane,Dallas,No,Fashion,72.0,6,432.0,High,Gpay,3
+333840821,2018-01-01,Monday,January,2026-06-03 15:52:00,Male,Water Tower,Chicago,Yes,Sporting,93.0,3,279.0,Medium,Card,4
+117770025,2018-01-18,Thursday,January,2026-06-03 14:31:00,Male,Park Lane,Dallas,No,Furniture,52.0,2,104.0,Low,Card,3
+961791428,2018-03-08,Thursday,March,2026-06-03 18:09:00,Male,Water Tower,Chicago,Yes,Sporting,64.0,7,448.0,High,Cash,1
+297913519,2018-02-19,Monday,February,2026-06-03 11:45:00,Male,Water Tower,Chicago,No,Groceries,45.0,7,315.0,Medium,Gpay,3
+371777788,2018-02-08,Thursday,February,2026-06-03 17:09:00,Female,Park Lane,Dallas,Yes,Books,34.0,7,238.0,Medium,Card,5
+207465625,2018-02-25,Sunday,February,2026-06-03 20:31:00,Male,Park Lane,Dallas,Yes,Groceries,64.0,1,64.0,Low,Gpay,2
+711170035,2018-01-15,Monday,January,2026-06-03 16:07:00,Male,Brookfield,NewYork,No,Clothing,17.0,5,85.0,Low,Card,5
+767992235,2018-01-21,Sunday,January,2026-06-03 11:32:00,Female,Water Tower,Chicago,Yes,Groceries,84.0,5,420.0,High,Cash,3
+101181180,2018-03-15,Thursday,March,2026-06-03 19:40:00,Male,Brookfield,NewYork,No,Furniture,12.0,6,72.0,Low,Cash,2
+764557539,2018-01-15,Monday,January,2026-06-03 16:10:00,Male,Park Lane,Dallas,Yes,Sporting,78.0,3,234.0,Medium,Gpay,2
+648584786,2018-02-02,Friday,February,2026-06-03 15:10:00,Male,Park Lane,Dallas,Yes,Furniture,3.0,3,9.0,Low,Cash,5
+758614852,2018-03-10,Saturday,March,2026-06-03 13:03:00,Male,Water Tower,Chicago,No,Furniture,48.0,2,96.0,Low,Cash,1
+282169081,2018-03-26,Monday,March,2026-06-03 13:10:00,Female,Water Tower,Chicago,Yes,Furniture,8.0,7,56.0,Low,Cash,1
+392872067,2018-01-19,Friday,January,2026-06-03 18:55:00,Male,Water Tower,Chicago,No,Sporting,18.0,6,108.0,Low,Gpay,5
+420364596,2018-01-25,Thursday,January,2026-06-03 15:05:00,Female,Park Lane,Dallas,No,Fashion,25.0,5,125.0,Low,Cash,3
+741634505,2018-02-10,Saturday,February,2026-06-03 18:14:00,Female,Brookfield,NewYork,Yes,Furniture,71.0,6,426.0,High,Cash,2
+554747535,2018-02-04,Sunday,February,2026-06-03 13:08:00,Male,Park Lane,Dallas,No,Clothing,89.0,6,534.0,High,Cash,5
+939400968,2018-01-31,Wednesday,January,2026-06-03 19:26:00,Female,Water Tower,Chicago,Yes,Groceries,51.0,5,255.0,Medium,Gpay,3
+597263687,2018-02-05,Monday,February,2026-06-03 14:35:00,Female,Park Lane,Dallas,No,Furniture,36.0,2,72.0,Low,Card,4
+92938418,2018-01-30,Tuesday,January,2026-06-03 13:06:00,Male,Water Tower,Chicago,Yes,Sporting,6.0,5,30.0,Low,Gpay,5
+416916918,2018-01-01,Monday,January,2026-06-03 17:04:00,Female,Park Lane,Dallas,Yes,Books,83.0,7,581.0,High,Gpay,4
+585382118,2018-01-13,Saturday,January,2026-06-03 17:27:00,Female,Park Lane,Dallas,Yes,Fashion,35.0,7,245.0,Medium,Card,1
+342332555,2018-01-05,Friday,January,2026-06-03 19:30:00,Male,Water Tower,Chicago,No,Sporting,23.0,3,69.0,Low,Gpay,3
+405920104,2018-01-15,Monday,January,2026-06-03 14:13:00,Male,Brookfield,NewYork,No,Groceries,60.0,7,420.0,High,Card,5
+566171221,2018-03-26,Monday,March,2026-06-03 10:04:00,Female,Brookfield,NewYork,No,Books,8.0,3,24.0,Low,Gpay,3
+379272141,2018-03-19,Monday,March,2026-06-03 12:20:00,Female,Park Lane,Dallas,No,Groceries,73.0,2,146.0,Low,Card,3
+720089935,2018-01-31,Wednesday,January,2026-06-03 10:33:00,Male,Park Lane,Dallas,Yes,Sporting,94.0,1,94.0,Low,Card,1
+872530273,2018-02-07,Wednesday,February,2026-06-03 10:36:00,Female,Park Lane,Dallas,No,Groceries,18.0,5,90.0,Low,Card,2
+337208704,2018-03-16,Friday,March,2026-06-03 19:42:00,Male,Brookfield,NewYork,No,Furniture,36.0,3,108.0,Low,Gpay,5
+173188859,2018-02-12,Monday,February,2026-06-03 13:26:00,Female,Brookfield,NewYork,Yes,Sporting,100.0,2,200.0,Low,Card,5
+253349866,2018-02-16,Friday,February,2026-06-03 19:06:00,Male,Brookfield,NewYork,Yes,Books,44.0,1,44.0,Low,Cash,1
+664675610,2018-02-15,Thursday,February,2026-06-03 20:34:00,Male,Water Tower,Chicago,Yes,Fashion,54.0,6,324.0,Medium,Cash,5
+67305392,2018-01-14,Sunday,January,2026-06-03 14:42:00,Male,Brookfield,NewYork,No,Furniture,65.0,4,260.0,Medium,Gpay,5
+780847506,2018-02-14,Wednesday,February,2026-06-03 14:08:00,Male,Brookfield,NewYork,No,Clothing,100.0,4,400.0,Medium,Gpay,1
+760815139,2018-03-04,Sunday,March,2026-06-03 15:16:00,Female,Park Lane,Dallas,No,Sporting,10.0,1,10.0,Low,Card,1
+558305760,2018-03-12,Monday,March,2026-06-03 19:44:00,Female,Brookfield,NewYork,Yes,Books,59.0,4,236.0,Medium,Card,3
+225685706,2018-02-22,Thursday,February,2026-06-03 12:47:00,Male,Brookfield,NewYork,No,Sporting,33.0,7,231.0,Medium,Card,1
+187709802,2018-01-24,Wednesday,January,2026-06-03 10:43:00,Male,Brookfield,NewYork,Yes,Fashion,20.0,1,20.0,Low,Cash,1
+341556579,2018-02-04,Sunday,February,2026-06-03 18:15:00,Female,Park Lane,Dallas,Yes,Books,30.0,1,30.0,Low,Gpay,5
+8348928,2018-02-25,Sunday,February,2026-06-03 17:04:00,Female,Water Tower,Chicago,No,Furniture,57.0,7,399.0,Medium,Cash,5
+54357163,2018-03-09,Friday,March,2026-06-03 19:35:00,Male,Water Tower,Chicago,Yes,Furniture,87.0,1,87.0,Low,Gpay,2
+813009806,2018-03-15,Thursday,March,2026-06-03 19:57:00,Female,Park Lane,Dallas,Yes,Books,21.0,7,147.0,Low,Card,1
+611755583,2018-01-08,Monday,January,2026-06-03 14:05:00,Female,Brookfield,NewYork,Yes,Groceries,67.0,5,335.0,Medium,Gpay,1
+504726757,2018-01-31,Wednesday,January,2026-06-03 18:17:00,Male,Brookfield,NewYork,Yes,Sporting,78.0,3,234.0,Medium,Gpay,5
+285259108,2018-02-24,Saturday,February,2026-06-03 13:01:00,Female,Brookfield,NewYork,Yes,Sporting,12.0,6,72.0,Low,Card,1
+148516620,2018-02-08,Thursday,February,2026-06-03 12:29:00,Female,Brookfield,NewYork,No,Books,10.0,3,30.0,Low,Cash,2
+944594455,2018-03-23,Friday,March,2026-06-03 13:05:00,Female,Brookfield,NewYork,Yes,Furniture,74.0,7,518.0,High,Cash,5
+317999524,2018-02-16,Friday,February,2026-06-03 15:04:00,Female,Park Lane,Dallas,Yes,Clothing,7.0,3,21.0,Low,Cash,4
+222207991,2018-02-13,Tuesday,February,2026-06-03 19:01:00,Male,Park Lane,Dallas,No,Groceries,51.0,4,204.0,Medium,Card,3
+580338541,2018-01-06,Saturday,January,2026-06-03 10:28:00,Female,Park Lane,Dallas,Yes,Furniture,10.0,1,10.0,Low,Card,4
+515937823,2018-01-29,Monday,January,2026-06-03 11:27:00,Male,Park Lane,Dallas,Yes,Books,99.0,4,396.0,Medium,Card,5
+677762983,2018-01-26,Friday,January,2026-06-03 10:12:00,Female,Park Lane,Dallas,No,Furniture,37.0,4,148.0,Low,Card,4
+106004790,2018-03-02,Friday,March,2026-06-03 11:28:00,Female,Brookfield,NewYork,No,Clothing,100.0,2,200.0,Low,Cash,3
+837769142,2018-02-02,Friday,February,2026-06-03 20:37:00,Male,Park Lane,Dallas,No,Fashion,84.0,1,84.0,Low,Cash,4
+416455705,2018-03-25,Sunday,March,2026-06-03 12:40:00,Female,Water Tower,Chicago,Yes,Groceries,56.0,1,56.0,Low,Card,1
+17738524,2018-02-20,Tuesday,February,2026-06-03 13:18:00,Male,Water Tower,Chicago,No,Clothing,83.0,7,581.0,High,Cash,5
+217203015,2018-03-30,Friday,March,2026-06-03 18:33:00,Male,Brookfield,NewYork,No,Books,49.0,5,245.0,Medium,Card,1
+307120566,2018-02-15,Thursday,February,2026-06-03 17:36:00,Male,Water Tower,Chicago,No,Fashion,13.0,4,52.0,Low,Card,4
+955096223,2018-01-06,Saturday,January,2026-06-03 10:36:00,Female,Park Lane,Dallas,Yes,Clothing,18.0,1,18.0,Low,Gpay,4
+168568639,2018-02-24,Saturday,February,2026-06-03 11:39:00,Male,Park Lane,Dallas,No,Sporting,45.0,3,135.0,Low,Gpay,4
+613417869,2018-02-01,Thursday,February,2026-06-03 17:44:00,Male,Water Tower,Chicago,Yes,Groceries,95.0,1,95.0,Low,Card,1
+398685229,2018-03-09,Friday,March,2026-06-03 16:21:00,Female,Water Tower,Chicago,No,Fashion,94.0,7,658.0,High,Gpay,1
+549324879,2018-01-28,Sunday,January,2026-06-03 19:42:00,Female,Park Lane,Dallas,No,Furniture,8.0,6,48.0,Low,Gpay,5
+282649788,2018-02-11,Sunday,February,2026-06-03 19:29:00,Male,Brookfield,NewYork,No,Groceries,25.0,5,125.0,Low,Gpay,2
+746691205,2018-02-02,Friday,February,2026-06-03 20:54:00,Female,Park Lane,Dallas,Yes,Groceries,59.0,4,236.0,Medium,Card,3
+261411790,2018-03-29,Thursday,March,2026-06-03 15:51:00,Male,Brookfield,NewYork,No,Groceries,10.0,1,10.0,Low,Cash,3
+274303941,2018-02-22,Thursday,February,2026-06-03 16:10:00,Female,Park Lane,Dallas,Yes,Clothing,89.0,5,445.0,High,Card,4
+834905658,2018-03-02,Friday,March,2026-06-03 18:38:00,Female,Water Tower,Chicago,No,Groceries,30.0,3,90.0,Low,Gpay,5
+461308403,2018-03-03,Saturday,March,2026-06-03 13:58:00,Male,Brookfield,NewYork,No,Furniture,79.0,7,553.0,High,Card,2
+402577239,2018-03-05,Monday,March,2026-06-03 19:33:00,Female,Water Tower,Chicago,Yes,Books,83.0,6,498.0,High,Card,2
+226194186,2018-01-18,Thursday,January,2026-06-03 15:52:00,Female,Brookfield,NewYork,No,Books,73.0,3,219.0,Medium,Cash,4
+259223127,2018-03-26,Monday,March,2026-06-03 11:44:00,Female,Water Tower,Chicago,No,Clothing,23.0,6,138.0,Low,Cash,5
+33596994,2018-02-15,Thursday,February,2026-06-03 19:42:00,Male,Brookfield,NewYork,Yes,Fashion,59.0,2,118.0,Low,Gpay,1
+188681488,2018-03-25,Sunday,March,2026-06-03 16:19:00,Male,Water Tower,Chicago,No,Sporting,16.0,6,96.0,Low,Cash,2
+344018383,2018-03-11,Sunday,March,2026-06-03 16:23:00,Female,Park Lane,Dallas,No,Fashion,23.0,3,69.0,Low,Cash,3
+652344775,2018-01-13,Saturday,January,2026-06-03 20:38:00,Female,Park Lane,Dallas,Yes,Books,5.0,4,20.0,Low,Card,1
+982619463,2018-02-27,Tuesday,February,2026-06-03 18:14:00,Female,Brookfield,NewYork,No,Fashion,99.0,3,297.0,Medium,Card,2
+778986959,2018-01-24,Wednesday,January,2026-06-03 16:49:00,Female,Water Tower,Chicago,No,Sporting,88.0,4,352.0,Medium,Card,4
+230034350,2018-03-09,Friday,March,2026-06-03 17:38:00,Male,Park Lane,Dallas,Yes,Fashion,92.0,7,644.0,High,Card,5
+505330940,2018-01-20,Saturday,January,2026-06-03 15:10:00,Male,Water Tower,Chicago,Yes,Sporting,27.0,2,54.0,Low,Cash,3
+354305028,2018-03-02,Friday,March,2026-06-03 10:36:00,Male,Brookfield,NewYork,No,Furniture,37.0,6,222.0,Medium,Gpay,5
+774570372,2018-03-28,Wednesday,March,2026-06-03 18:08:00,Female,Park Lane,Dallas,No,Groceries,51.0,7,357.0,Medium,Card,2
+810322530,2018-01-30,Tuesday,January,2026-06-03 17:24:00,Female,Water Tower,Chicago,Yes,Clothing,32.0,7,224.0,Medium,Gpay,1
+607275572,2018-02-05,Monday,February,2026-06-03 11:21:00,Female,Water Tower,Chicago,Yes,Groceries,81.0,7,567.0,High,Card,5
+61448841,2018-03-10,Saturday,March,2026-06-03 13:44:00,Female,Brookfield,NewYork,Yes,Books,74.0,4,296.0,Medium,Cash,5
+753449647,2018-03-19,Monday,March,2026-06-03 18:27:00,Male,Brookfield,NewYork,No,Clothing,48.0,4,192.0,Low,Gpay,3
+385301688,2018-02-23,Friday,February,2026-06-03 16:21:00,Female,Brookfield,NewYork,No,Furniture,82.0,7,574.0,High,Gpay,3
+106779665,2018-02-11,Sunday,February,2026-06-03 11:20:00,Female,Park Lane,Dallas,No,Sporting,16.0,2,32.0,Low,Cash,5
+648139072,2018-01-24,Wednesday,January,2026-06-03 17:58:00,Female,Water Tower,Chicago,Yes,Fashion,62.0,1,62.0,Low,Card,5
+906293682,2018-01-10,Wednesday,January,2026-06-03 18:10:00,Male,Water Tower,Chicago,Yes,Groceries,49.0,5,245.0,Medium,Gpay,2
+734143201,2018-03-01,Thursday,March,2026-06-03 19:18:00,Female,Brookfield,NewYork,Yes,Furniture,91.0,6,546.0,High,Gpay,1
+213757068,2018-03-14,Wednesday,March,2026-06-03 13:24:00,Male,Park Lane,Dallas,No,Furniture,65.0,7,455.0,High,Card,1
+539555519,2018-03-09,Friday,March,2026-06-03 19:48:00,Female,Park Lane,Dallas,Yes,Sporting,81.0,5,405.0,High,Card,5
+187418894,2018-01-12,Friday,January,2026-06-03 14:11:00,Male,Water Tower,Chicago,Yes,Books,71.0,4,284.0,Medium,Card,3
+457563015,2018-01-20,Saturday,January,2026-06-03 16:40:00,Female,Park Lane,Dallas,Yes,Sporting,53.0,7,371.0,Medium,Card,5
+177467181,2018-01-23,Tuesday,January,2026-06-03 18:59:00,Female,Water Tower,Chicago,Yes,Clothing,96.0,6,576.0,High,Cash,5
+436716459,2018-01-27,Saturday,January,2026-06-03 19:01:00,Female,Park Lane,Dallas,No,Furniture,39.0,7,273.0,Medium,Cash,3
+752220527,2018-03-16,Friday,March,2026-06-03 15:49:00,Female,Brookfield,NewYork,Yes,Clothing,41.0,5,205.0,Medium,Card,2
+670227755,2018-03-19,Monday,March,2026-06-03 19:47:00,Female,Park Lane,Dallas,No,Furniture,62.0,5,310.0,Medium,Cash,2
+986239732,2018-01-12,Friday,January,2026-06-03 18:02:00,Female,Brookfield,NewYork,No,Clothing,9.0,5,45.0,Low,Card,2
+20632381,2018-01-17,Wednesday,January,2026-06-03 15:23:00,Female,Park Lane,Dallas,Yes,Fashion,54.0,2,108.0,Low,Card,1
+964883376,2018-03-07,Wednesday,March,2026-06-03 12:43:00,Female,Brookfield,NewYork,No,Clothing,1.0,2,2.0,Low,Gpay,4
+487019311,2018-01-21,Sunday,January,2026-06-03 16:33:00,Female,Brookfield,NewYork,Yes,Furniture,3.0,1,3.0,Low,Cash,5
+700177218,2018-01-08,Monday,January,2026-06-03 12:02:00,Male,Park Lane,Dallas,No,Fashion,56.0,3,168.0,Low,Gpay,5
+541459341,2018-01-10,Wednesday,January,2026-06-03 16:24:00,Female,Brookfield,NewYork,Yes,Groceries,22.0,5,110.0,Low,Gpay,3
+929160771,2018-03-18,Sunday,March,2026-06-03 20:14:00,Male,Brookfield,NewYork,No,Sporting,74.0,1,74.0,Low,Cash,3
+486660199,2018-03-06,Tuesday,March,2026-06-03 17:45:00,Male,Water Tower,Chicago,Yes,Books,37.0,5,185.0,Low,Card,3
+450190302,2018-03-10,Saturday,March,2026-06-03 10:26:00,Male,Park Lane,Dallas,No,Furniture,44.0,3,132.0,Low,Cash,4
+185626182,2018-02-24,Saturday,February,2026-06-03 10:50:00,Male,Park Lane,Dallas,Yes,Books,66.0,6,396.0,Medium,Cash,5
+320206656,2018-03-20,Tuesday,March,2026-06-03 19:20:00,Male,Water Tower,Chicago,No,Books,42.0,1,42.0,Low,Card,1
+481709660,2018-02-17,Saturday,February,2026-06-03 12:40:00,Female,Brookfield,NewYork,Yes,Furniture,61.0,4,244.0,Medium,Card,4
+915042564,2018-01-08,Monday,January,2026-06-03 13:23:00,Male,Park Lane,Dallas,No,Books,47.0,2,94.0,Low,Cash,1
+337543764,2018-01-30,Tuesday,January,2026-06-03 14:08:00,Male,Park Lane,Dallas,No,Fashion,24.0,6,144.0,Low,Cash,2
+276890647,2018-03-26,Monday,March,2026-06-03 18:19:00,Male,Park Lane,Dallas,No,Sporting,1.0,7,7.0,Low,Gpay,4
+475698242,2018-02-19,Monday,February,2026-06-03 19:21:00,Male,Brookfield,NewYork,Yes,Clothing,31.0,6,186.0,Low,Gpay,2
+522650837,2018-01-01,Monday,January,2026-06-03 19:07:00,Male,Water Tower,Chicago,Yes,Clothing,59.0,1,59.0,Low,Gpay,1
+982386222,2018-03-04,Sunday,March,2026-06-03 20:03:00,Female,Park Lane,Dallas,Yes,Books,30.0,4,120.0,Low,Gpay,1
+251721361,2018-01-25,Thursday,January,2026-06-03 13:05:00,Male,Water Tower,Chicago,No,Fashion,89.0,2,178.0,Low,Gpay,1
+646176653,2018-03-10,Saturday,March,2026-06-03 19:39:00,Male,Park Lane,Dallas,Yes,Sporting,1.0,1,1.0,Low,Cash,2
+712707662,2018-02-17,Saturday,February,2026-06-03 18:59:00,Male,Brookfield,NewYork,No,Furniture,26.0,7,182.0,Low,Gpay,5
+532568082,2018-01-27,Saturday,January,2026-06-03 17:44:00,Male,Park Lane,Dallas,Yes,Books,77.0,3,231.0,Medium,Cash,2
+9448427,2018-03-02,Friday,March,2026-06-03 13:11:00,Male,Brookfield,NewYork,Yes,Groceries,14.0,7,98.0,Low,Card,2
+556712257,2018-01-02,Tuesday,January,2026-06-03 13:58:00,Male,Park Lane,Dallas,No,Sporting,93.0,2,186.0,Low,Gpay,4
+344763004,2018-01-14,Sunday,January,2026-06-03 15:01:00,Male,Park Lane,Dallas,No,Clothing,77.0,2,154.0,Low,Card,5
+302922787,2018-01-18,Thursday,January,2026-06-03 10:25:00,Male,Brookfield,NewYork,No,Books,80.0,3,240.0,Medium,Gpay,2
+415609214,2018-02-20,Tuesday,February,2026-06-03 10:37:00,Female,Brookfield,NewYork,No,Books,14.0,5,70.0,Low,Cash,4
+571374380,2018-02-20,Tuesday,February,2026-06-03 17:16:00,Male,Water Tower,Chicago,No,Sporting,10.0,1,10.0,Low,Card,5
+739222343,2018-03-22,Thursday,March,2026-06-03 14:29:00,Female,Park Lane,Dallas,Yes,Books,19.0,7,133.0,Low,Cash,3
+708221956,2018-02-19,Monday,February,2026-06-03 14:36:00,Male,Brookfield,NewYork,No,Groceries,84.0,1,84.0,Low,Gpay,5
+262731416,2018-02-15,Thursday,February,2026-06-03 14:06:00,Male,Park Lane,Dallas,No,Books,44.0,6,264.0,Medium,Gpay,2
+622007693,2018-01-27,Saturday,January,2026-06-03 11:40:00,Female,Brookfield,NewYork,Yes,Sporting,76.0,6,456.0,High,Card,4
+898288915,2018-01-09,Tuesday,January,2026-06-03 11:06:00,Female,Park Lane,Dallas,Yes,Sporting,68.0,2,136.0,Low,Gpay,5
+11556830,2018-01-05,Friday,January,2026-06-03 19:39:00,Female,Park Lane,Dallas,No,Sporting,65.0,2,130.0,Low,Gpay,1
+144597774,2018-03-11,Sunday,March,2026-06-03 11:55:00,Male,Brookfield,NewYork,Yes,Fashion,52.0,1,52.0,Low,Cash,2
+61600371,2018-01-02,Tuesday,January,2026-06-03 15:40:00,Female,Park Lane,Dallas,No,Groceries,28.0,2,56.0,Low,Card,3
+169697714,2018-03-19,Monday,March,2026-06-03 10:55:00,Female,Water Tower,Chicago,No,Clothing,49.0,1,49.0,Low,Card,3
+113236778,2018-02-12,Monday,February,2026-06-03 13:30:00,Male,Brookfield,NewYork,Yes,Books,31.0,4,124.0,Low,Card,4
+307925289,2018-02-05,Monday,February,2026-06-03 10:25:00,Female,Park Lane,Dallas,No,Clothing,100.0,5,500.0,High,Gpay,3
+326311886,2018-01-23,Tuesday,January,2026-06-03 11:26:00,Male,Water Tower,Chicago,No,Sporting,23.0,4,92.0,Low,Card,5
+988159876,2018-01-08,Monday,January,2026-06-03 14:16:00,Female,Brookfield,NewYork,Yes,Furniture,56.0,4,224.0,Medium,Card,4
+437241799,2018-03-10,Saturday,March,2026-06-03 19:02:00,Male,Water Tower,Chicago,No,Groceries,28.0,5,140.0,Low,Card,4
+486005290,2018-02-25,Sunday,February,2026-06-03 18:22:00,Female,Brookfield,NewYork,Yes,Groceries,47.0,2,94.0,Low,Card,3
+524232746,2018-01-29,Monday,January,2026-06-03 20:33:00,Female,Brookfield,NewYork,No,Fashion,30.0,4,120.0,Low,Cash,1
+357755511,2018-03-12,Monday,March,2026-06-03 15:01:00,Female,Park Lane,Dallas,No,Sporting,86.0,4,344.0,Medium,Cash,3
+445899503,2018-01-24,Wednesday,January,2026-06-03 18:27:00,Female,Park Lane,Dallas,Yes,Groceries,88.0,2,176.0,Low,Card,2
+950297423,2018-02-13,Tuesday,February,2026-06-03 12:01:00,Male,Brookfield,NewYork,Yes,Fashion,85.0,2,170.0,Low,Cash,4
+870706788,2018-02-07,Wednesday,February,2026-06-03 13:45:00,Male,Brookfield,NewYork,Yes,Clothing,7.0,5,35.0,Low,Gpay,1
+423084173,2018-01-19,Friday,January,2026-06-03 17:36:00,Female,Brookfield,NewYork,No,Books,70.0,2,140.0,Low,Cash,2
+693339406,2018-02-02,Friday,February,2026-06-03 15:42:00,Male,Brookfield,NewYork,No,Books,100.0,4,400.0,Medium,Gpay,4
+403665053,2018-01-14,Sunday,January,2026-06-03 14:04:00,Female,Water Tower,Chicago,Yes,Furniture,5.0,1,5.0,Low,Card,3
+98053785,2018-01-25,Thursday,January,2026-06-03 11:00:00,Male,Water Tower,Chicago,Yes,Sporting,97.0,6,582.0,High,Cash,2
+817802098,2018-02-18,Sunday,February,2026-06-03 15:25:00,Male,Brookfield,NewYork,Yes,Books,63.0,5,315.0,Medium,Cash,2
+614410397,2018-01-25,Thursday,January,2026-06-03 12:41:00,Male,Water Tower,Chicago,No,Clothing,64.0,6,384.0,Medium,Cash,5
+882885054,2018-03-15,Thursday,March,2026-06-03 14:38:00,Male,Water Tower,Chicago,Yes,Books,40.0,2,80.0,Low,Cash,4
+581788719,2018-03-08,Thursday,March,2026-06-03 20:40:00,Female,Park Lane,Dallas,No,Fashion,87.0,3,261.0,Medium,Cash,3
+476245246,2018-01-25,Thursday,January,2026-06-03 10:21:00,Female,Brookfield,NewYork,No,Books,85.0,3,255.0,Medium,Card,4
+438129906,2018-01-07,Sunday,January,2026-06-03 10:34:00,Male,Water Tower,Chicago,Yes,Clothing,77.0,3,231.0,Medium,Card,5
+538260504,2018-03-26,Monday,March,2026-06-03 15:42:00,Male,Brookfield,NewYork,Yes,Sporting,94.0,6,564.0,High,Card,5
+945941125,2018-01-25,Thursday,January,2026-06-03 16:43:00,Male,Brookfield,NewYork,Yes,Groceries,16.0,3,48.0,Low,Card,1
+247158611,2018-02-08,Thursday,February,2026-06-03 16:27:00,Female,Brookfield,NewYork,No,Fashion,5.0,1,5.0,Low,Cash,3
+713366374,2018-02-16,Friday,February,2026-06-03 17:27:00,Male,Water Tower,Chicago,No,Fashion,60.0,5,300.0,Medium,Card,2
+14609870,2018-01-22,Monday,January,2026-06-03 11:28:00,Female,Park Lane,Dallas,Yes,Groceries,72.0,1,72.0,Low,Cash,2
+336836343,2018-03-20,Tuesday,March,2026-06-03 11:38:00,Male,Brookfield,NewYork,Yes,Clothing,23.0,5,115.0,Low,Gpay,3
+958121296,2018-01-08,Monday,January,2026-06-03 20:03:00,Female,Brookfield,NewYork,No,Sporting,11.0,4,44.0,Low,Card,5
+939338787,2018-03-06,Tuesday,March,2026-06-03 13:24:00,Female,Water Tower,Chicago,No,Sporting,11.0,5,55.0,Low,Card,1
+170601848,2018-02-05,Monday,February,2026-06-03 11:58:00,Male,Water Tower,Chicago,Yes,Sporting,58.0,1,58.0,Low,Gpay,5
+387707923,2018-02-13,Tuesday,February,2026-06-03 11:07:00,Female,Park Lane,Dallas,Yes,Fashion,75.0,5,375.0,Medium,Gpay,1
+545078026,2018-03-24,Saturday,March,2026-06-03 12:52:00,Male,Brookfield,NewYork,Yes,Clothing,31.0,3,93.0,Low,Cash,1
+704651116,2018-03-15,Thursday,March,2026-06-03 12:44:00,Female,Water Tower,Chicago,No,Sporting,68.0,4,272.0,Medium,Card,3
+42349908,2018-02-15,Thursday,February,2026-06-03 20:37:00,Male,Park Lane,Dallas,No,Clothing,10.0,5,50.0,Low,Gpay,2
+135768329,2018-01-04,Thursday,January,2026-06-03 19:24:00,Female,Park Lane,Dallas,No,Sporting,8.0,2,16.0,Low,Cash,1
+483457878,2018-01-26,Friday,January,2026-06-03 11:52:00,Female,Brookfield,NewYork,Yes,Groceries,68.0,4,272.0,Medium,Cash,1
+555960560,2018-02-10,Saturday,February,2026-06-03 20:43:00,Female,Water Tower,Chicago,Yes,Fashion,82.0,5,410.0,High,Gpay,1
+282376295,2018-02-24,Saturday,February,2026-06-03 20:26:00,Female,Water Tower,Chicago,Yes,Furniture,78.0,6,468.0,High,Cash,5
+798873199,2018-03-13,Tuesday,March,2026-06-03 10:37:00,Male,Brookfield,NewYork,Yes,Clothing,87.0,3,261.0,Medium,Cash,1
+35680963,2018-02-15,Thursday,February,2026-06-03 11:25:00,Female,Brookfield,NewYork,Yes,Furniture,75.0,6,450.0,High,Cash,5
+541013147,2018-03-07,Wednesday,March,2026-06-03 17:26:00,Female,Brookfield,NewYork,No,Sporting,73.0,3,219.0,Medium,Gpay,1
+786500499,2018-01-13,Saturday,January,2026-06-03 19:43:00,Male,Park Lane,Dallas,No,Books,41.0,5,205.0,Medium,Gpay,5
+370671668,2018-03-13,Tuesday,March,2026-06-03 20:07:00,Male,Park Lane,Dallas,No,Fashion,51.0,1,51.0,Low,Cash,1
+764424609,2018-03-07,Wednesday,March,2026-06-03 16:32:00,Female,Water Tower,Chicago,No,Books,4.0,7,28.0,Low,Gpay,4
+661405,2018-03-06,Tuesday,March,2026-06-03 11:32:00,Male,Brookfield,NewYork,Yes,Clothing,91.0,4,364.0,Medium,Cash,3
+858902305,2018-03-29,Thursday,March,2026-06-03 14:42:00,Male,Park Lane,Dallas,No,Groceries,47.0,4,188.0,Low,Cash,4
+451143604,2018-03-17,Saturday,March,2026-06-03 12:37:00,Female,Brookfield,NewYork,Yes,Books,5.0,1,5.0,Low,Gpay,4
+351840920,2018-02-25,Sunday,February,2026-06-03 17:56:00,Female,Park Lane,Dallas,No,Sporting,67.0,1,67.0,Low,Cash,1
+720613115,2018-01-06,Saturday,January,2026-06-03 15:36:00,Female,Park Lane,Dallas,Yes,Books,5.0,3,15.0,Low,Card,2
+59555036,2018-02-05,Monday,February,2026-06-03 14:40:00,Female,Brookfield,NewYork,No,Sporting,78.0,7,546.0,High,Cash,3
+593682157,2018-02-20,Tuesday,February,2026-06-03 15:16:00,Male,Brookfield,NewYork,Yes,Fashion,82.0,2,164.0,Low,Gpay,3
+11986994,2018-02-03,Saturday,February,2026-06-03 14:51:00,Male,Water Tower,Chicago,Yes,Sporting,16.0,3,48.0,Low,Card,2
+996041528,2018-03-04,Sunday,March,2026-06-03 12:45:00,Female,Park Lane,Dallas,No,Fashion,24.0,7,168.0,Low,Gpay,3
+828419755,2018-01-18,Thursday,January,2026-06-03 18:53:00,Female,Park Lane,Dallas,Yes,Sporting,91.0,7,637.0,High,Card,5
+720387839,2018-03-11,Sunday,March,2026-06-03 13:59:00,Male,Brookfield,NewYork,Yes,Sporting,71.0,7,497.0,High,Cash,2
+687050813,2018-03-20,Tuesday,March,2026-06-03 11:18:00,Male,Brookfield,NewYork,No,Clothing,37.0,3,111.0,Low,Card,3
+510821622,2018-02-03,Saturday,February,2026-06-03 18:27:00,Male,Park Lane,Dallas,No,Books,80.0,7,560.0,High,Cash,2
+87236970,2018-01-15,Monday,January,2026-06-03 16:44:00,Male,Brookfield,NewYork,Yes,Groceries,2.0,2,4.0,Low,Gpay,3
+833998175,2018-01-10,Wednesday,January,2026-06-03 10:26:00,Male,Water Tower,Chicago,No,Clothing,9.0,4,36.0,Low,Cash,2
+777524991,2018-01-26,Friday,January,2026-06-03 16:54:00,Male,Park Lane,Dallas,Yes,Sporting,95.0,3,285.0,Medium,Card,5
+188038628,2018-03-02,Friday,March,2026-06-03 14:14:00,Female,Park Lane,Dallas,No,Sporting,50.0,2,100.0,Low,Gpay,3
+282446743,2018-03-01,Thursday,March,2026-06-03 13:58:00,Female,Water Tower,Chicago,Yes,Fashion,2.0,6,12.0,Low,Cash,1
+337885011,2018-02-14,Wednesday,February,2026-06-03 18:43:00,Male,Park Lane,Dallas,Yes,Clothing,53.0,1,53.0,Low,Cash,3
+372301333,2018-02-05,Monday,February,2026-06-03 16:30:00,Male,Park Lane,Dallas,Yes,Fashion,87.0,1,87.0,Low,Cash,3
+329548692,2018-02-17,Saturday,February,2026-06-03 17:13:00,Male,Brookfield,NewYork,Yes,Sporting,1.0,6,6.0,Low,Gpay,1
+751714562,2018-03-20,Tuesday,March,2026-06-03 19:11:00,Female,Water Tower,Chicago,Yes,Sporting,43.0,7,301.0,Medium,Gpay,4
+764808876,2018-03-01,Thursday,March,2026-06-03 12:55:00,Male,Brookfield,NewYork,Yes,Sporting,98.0,5,490.0,High,Card,1
+816729463,2018-03-02,Friday,March,2026-06-03 18:03:00,Female,Water Tower,Chicago,Yes,Fashion,84.0,6,504.0,High,Card,5
+429753844,2018-02-09,Friday,February,2026-06-03 20:48:00,Male,Water Tower,Chicago,Yes,Furniture,77.0,6,462.0,High,Gpay,5
+871734799,2018-01-28,Sunday,January,2026-06-03 20:21:00,Male,Park Lane,Dallas,Yes,Books,22.0,2,44.0,Low,Card,4
+610628170,2018-02-21,Wednesday,February,2026-06-03 17:26:00,Female,Brookfield,NewYork,No,Fashion,15.0,5,75.0,Low,Cash,3
+985003081,2018-03-20,Tuesday,March,2026-06-03 19:24:00,Male,Water Tower,Chicago,Yes,Furniture,79.0,3,237.0,Medium,Card,4
+22386421,2018-01-03,Wednesday,January,2026-06-03 16:04:00,Female,Park Lane,Dallas,Yes,Books,55.0,7,385.0,Medium,Gpay,5
+176429191,2018-01-14,Sunday,January,2026-06-03 11:36:00,Male,Water Tower,Chicago,Yes,Sporting,38.0,6,228.0,Medium,Cash,2
+270918350,2018-03-27,Tuesday,March,2026-06-03 13:21:00,Female,Park Lane,Dallas,Yes,Groceries,99.0,7,693.0,High,Gpay,2
+807807551,2018-03-14,Wednesday,March,2026-06-03 11:51:00,Female,Water Tower,Chicago,No,Books,62.0,1,62.0,Low,Gpay,4
+798981206,2018-01-02,Tuesday,January,2026-06-03 18:03:00,Female,Brookfield,NewYork,No,Books,50.0,7,350.0,Medium,Card,3
+522353295,2018-03-01,Thursday,March,2026-06-03 10:17:00,Male,Water Tower,Chicago,No,Books,33.0,4,132.0,Low,Gpay,4
+786464271,2018-02-04,Sunday,February,2026-06-03 11:02:00,Male,Water Tower,Chicago,Yes,Books,77.0,2,154.0,Low,Card,2
+446983200,2018-01-23,Tuesday,January,2026-06-03 13:32:00,Female,Park Lane,Dallas,No,Furniture,90.0,1,90.0,Low,Card,4
+23845634,2018-01-07,Sunday,January,2026-06-03 17:15:00,Female,Park Lane,Dallas,Yes,Furniture,52.0,4,208.0,Medium,Gpay,2
+422068723,2018-01-15,Monday,January,2026-06-03 19:54:00,Female,Brookfield,NewYork,Yes,Sporting,11.0,1,11.0,Low,Gpay,1
+217846748,2018-03-08,Thursday,March,2026-06-03 18:06:00,Female,Water Tower,Chicago,No,Books,98.0,5,490.0,High,Gpay,5
+6028484,2018-02-02,Friday,February,2026-06-03 15:59:00,Female,Water Tower,Chicago,Yes,Books,31.0,4,124.0,Low,Card,4
+962722016,2018-02-13,Tuesday,February,2026-06-03 20:00:00,Female,Water Tower,Chicago,Yes,Fashion,5.0,3,15.0,Low,Card,4
+866434633,2018-01-30,Tuesday,January,2026-06-03 15:12:00,Female,Brookfield,NewYork,No,Books,5.0,7,35.0,Low,Gpay,1
+989851843,2018-03-12,Monday,March,2026-06-03 10:33:00,Male,Water Tower,Chicago,Yes,Groceries,12.0,2,24.0,Low,Card,3
+818588106,2018-02-17,Saturday,February,2026-06-03 13:05:00,Female,Brookfield,NewYork,No,Groceries,87.0,7,609.0,High,Card,5
+640968118,2018-01-09,Tuesday,January,2026-06-03 15:45:00,Male,Water Tower,Chicago,Yes,Sporting,73.0,6,438.0,High,Cash,1
+313217211,2018-03-23,Friday,March,2026-06-03 19:20:00,Female,Water Tower,Chicago,Yes,Fashion,46.0,4,184.0,Low,Cash,2
+473189761,2018-01-23,Tuesday,January,2026-06-03 17:16:00,Male,Brookfield,NewYork,No,Fashion,19.0,7,133.0,Low,Card,4
+166640927,2018-01-31,Wednesday,January,2026-06-03 18:23:00,Male,Park Lane,Dallas,No,Furniture,40.0,2,80.0,Low,Gpay,2
+751965233,2018-02-14,Wednesday,February,2026-06-03 20:05:00,Male,Water Tower,Chicago,No,Books,60.0,6,360.0,Medium,Card,3
+32111135,2018-01-24,Wednesday,January,2026-06-03 10:33:00,Female,Park Lane,Dallas,Yes,Furniture,43.0,6,258.0,Medium,Gpay,4
+404017492,2018-02-26,Monday,February,2026-06-03 13:53:00,Female,Park Lane,Dallas,No,Fashion,23.0,1,23.0,Low,Cash,2
+745923301,2018-01-11,Thursday,January,2026-06-03 12:56:00,Male,Water Tower,Chicago,Yes,Groceries,64.0,5,320.0,Medium,Cash,1
+947595754,2018-01-26,Friday,January,2026-06-03 20:13:00,Female,Park Lane,Dallas,No,Sporting,61.0,7,427.0,High,Cash,3
+665212090,2018-03-28,Wednesday,March,2026-06-03 13:37:00,Female,Park Lane,Dallas,Yes,Clothing,81.0,7,567.0,High,Cash,4
+481017545,2018-02-18,Sunday,February,2026-06-03 20:32:00,Male,Park Lane,Dallas,Yes,Books,46.0,5,230.0,Medium,Card,4
+318193227,2018-03-07,Wednesday,March,2026-06-03 13:55:00,Female,Brookfield,NewYork,No,Furniture,3.0,3,9.0,Low,Gpay,4
+60015389,2018-02-24,Saturday,February,2026-06-03 10:40:00,Male,Brookfield,NewYork,Yes,Fashion,74.0,5,370.0,Medium,Cash,5
+687175376,2018-02-21,Wednesday,February,2026-06-03 19:58:00,Male,Park Lane,Dallas,Yes,Fashion,96.0,1,96.0,Low,Cash,2
+625292695,2018-01-19,Friday,January,2026-06-03 15:05:00,Female,Brookfield,NewYork,Yes,Fashion,65.0,4,260.0,Medium,Card,1
+768261771,2018-02-11,Sunday,February,2026-06-03 11:55:00,Female,Water Tower,Chicago,Yes,Groceries,6.0,5,30.0,Low,Cash,4
+27577314,2018-03-02,Friday,March,2026-06-03 17:01:00,Male,Water Tower,Chicago,Yes,Groceries,7.0,2,14.0,Low,Cash,4
+430740110,2018-03-19,Monday,March,2026-06-03 12:46:00,Female,Water Tower,Chicago,No,Groceries,87.0,7,609.0,High,Cash,5
+940094586,2018-03-27,Tuesday,March,2026-06-03 11:23:00,Female,Water Tower,Chicago,Yes,Books,1.0,3,3.0,Low,Card,5
+218287621,2018-03-15,Thursday,March,2026-06-03 14:25:00,Male,Park Lane,Dallas,No,Books,65.0,5,325.0,Medium,Gpay,5
+427648981,2018-03-09,Friday,March,2026-06-03 20:24:00,Female,Brookfield,NewYork,Yes,Clothing,33.0,7,231.0,Medium,Card,4
+480994615,2018-02-27,Tuesday,February,2026-06-03 18:22:00,Male,Brookfield,NewYork,No,Groceries,66.0,6,396.0,Medium,Cash,1
+365411914,2018-02-17,Saturday,February,2026-06-03 18:19:00,Male,Water Tower,Chicago,Yes,Books,47.0,6,282.0,Medium,Cash,1
+942651953,2018-01-28,Sunday,January,2026-06-03 19:09:00,Male,Brookfield,NewYork,Yes,Fashion,10.0,1,10.0,Low,Card,1
+555194821,2018-03-12,Monday,March,2026-06-03 16:45:00,Male,Water Tower,Chicago,No,Fashion,99.0,5,495.0,High,Gpay,5
+535703316,2018-03-16,Friday,March,2026-06-03 15:08:00,Female,Park Lane,Dallas,No,Sporting,72.0,4,288.0,Medium,Card,4
+386701465,2018-03-27,Tuesday,March,2026-06-03 15:29:00,Male,Brookfield,NewYork,No,Groceries,34.0,6,204.0,Medium,Card,3
+573799925,2018-03-17,Saturday,March,2026-06-03 10:22:00,Female,Park Lane,Dallas,Yes,Furniture,46.0,6,276.0,Medium,Cash,5
+928380831,2018-02-10,Saturday,February,2026-06-03 12:24:00,Male,Park Lane,Dallas,Yes,Fashion,1.0,7,7.0,Low,Cash,2
+279211087,2018-03-06,Tuesday,March,2026-06-03 11:46:00,Female,Brookfield,NewYork,No,Groceries,75.0,1,75.0,Low,Gpay,5
+927553480,2018-02-01,Thursday,February,2026-06-03 18:04:00,Female,Park Lane,Dallas,Yes,Clothing,70.0,3,210.0,Medium,Cash,1
+492756803,2018-03-24,Saturday,March,2026-06-03 10:43:00,Male,Park Lane,Dallas,Yes,Groceries,32.0,1,32.0,Low,Gpay,1
+951090173,2018-01-21,Sunday,January,2026-06-03 15:12:00,Female,Water Tower,Chicago,No,Groceries,51.0,7,357.0,Medium,Cash,4
+423886295,2018-02-04,Sunday,February,2026-06-03 19:38:00,Male,Brookfield,NewYork,No,Groceries,70.0,7,490.0,High,Gpay,2
+732840126,2018-03-27,Tuesday,March,2026-06-03 19:39:00,Female,Water Tower,Chicago,Yes,Groceries,79.0,2,158.0,Low,Gpay,2
+357595679,2018-01-15,Monday,January,2026-06-03 17:20:00,Male,Park Lane,Dallas,Yes,Fashion,48.0,3,144.0,Low,Card,1
+217121383,2018-01-11,Thursday,January,2026-06-03 19:25:00,Female,Park Lane,Dallas,Yes,Furniture,12.0,7,84.0,Low,Card,2
+835758996,2018-02-10,Saturday,February,2026-06-03 18:57:00,Female,Park Lane,Dallas,Yes,Fashion,32.0,5,160.0,Low,Card,5
+131904342,2018-03-09,Friday,March,2026-06-03 11:22:00,Male,Brookfield,NewYork,Yes,Furniture,59.0,5,295.0,Medium,Cash,1
+438954986,2018-01-21,Sunday,January,2026-06-03 18:03:00,Female,Park Lane,Dallas,Yes,Fashion,98.0,3,294.0,Medium,Card,4
+601973638,2018-03-11,Sunday,March,2026-06-03 20:29:00,Male,Park Lane,Dallas,Yes,Books,95.0,5,475.0,High,Cash,1
+579955941,2018-02-28,Wednesday,February,2026-06-03 20:57:00,Male,Brookfield,NewYork,Yes,Books,60.0,1,60.0,Low,Card,2
+60603435,2018-02-01,Thursday,February,2026-06-03 11:03:00,Female,Park Lane,Dallas,Yes,Groceries,12.0,5,60.0,Low,Gpay,2
+803774146,2018-01-28,Sunday,January,2026-06-03 13:42:00,Male,Park Lane,Dallas,Yes,Sporting,37.0,6,222.0,Medium,Cash,5
+855506655,2018-01-23,Tuesday,January,2026-06-03 13:22:00,Male,Park Lane,Dallas,No,Sporting,16.0,2,32.0,Low,Cash,4
+796729861,2018-01-23,Tuesday,January,2026-06-03 20:29:00,Male,Water Tower,Chicago,No,Clothing,66.0,1,66.0,Low,Cash,4
+616530004,2018-02-05,Monday,February,2026-06-03 20:08:00,Female,Brookfield,NewYork,No,Clothing,21.0,3,63.0,Low,Gpay,4
+416735444,2018-02-12,Monday,February,2026-06-03 10:54:00,Female,Water Tower,Chicago,Yes,Groceries,30.0,1,30.0,Low,Cash,5
+882395212,2018-03-18,Sunday,March,2026-06-03 12:09:00,Female,Water Tower,Chicago,No,Fashion,68.0,3,204.0,Medium,Gpay,3
+550324994,2018-02-05,Monday,February,2026-06-03 17:11:00,Female,Water Tower,Chicago,Yes,Books,60.0,1,60.0,Low,Card,2
+223490764,2018-02-27,Tuesday,February,2026-06-03 10:02:00,Female,Park Lane,Dallas,Yes,Books,79.0,7,553.0,High,Gpay,3
+913471517,2018-03-29,Thursday,March,2026-06-03 17:07:00,Male,Brookfield,NewYork,Yes,Fashion,74.0,2,148.0,Low,Card,1
+277181456,2018-03-04,Sunday,March,2026-06-03 12:16:00,Female,Brookfield,NewYork,Yes,Sporting,63.0,6,378.0,Medium,Gpay,2
+180617103,2018-03-27,Tuesday,March,2026-06-03 19:35:00,Female,Park Lane,Dallas,No,Fashion,50.0,7,350.0,Medium,Cash,3
+689330907,2018-03-08,Thursday,March,2026-06-03 13:40:00,Male,Brookfield,NewYork,No,Clothing,97.0,3,291.0,Medium,Card,4
+140416946,2018-01-01,Monday,January,2026-06-03 15:55:00,Female,Park Lane,Dallas,No,Furniture,45.0,1,45.0,Low,Gpay,4
+966860394,2018-03-14,Wednesday,March,2026-06-03 14:47:00,Male,Park Lane,Dallas,Yes,Books,43.0,1,43.0,Low,Card,3
+231410575,2018-03-03,Saturday,March,2026-06-03 18:53:00,Female,Water Tower,Chicago,Yes,Fashion,55.0,4,220.0,Medium,Gpay,2
+55450556,2018-02-18,Sunday,February,2026-06-03 15:24:00,Male,Water Tower,Chicago,No,Clothing,33.0,2,66.0,Low,Cash,4
+553254260,2018-02-10,Saturday,February,2026-06-03 16:38:00,Male,Park Lane,Dallas,No,Clothing,45.0,3,135.0,Low,Gpay,1
+6317758,2018-03-10,Saturday,March,2026-06-03 15:08:00,Male,Park Lane,Dallas,Yes,Groceries,57.0,7,399.0,Medium,Cash,2
+729471316,2018-02-03,Saturday,February,2026-06-03 18:37:00,Male,Park Lane,Dallas,No,Fashion,93.0,3,279.0,Medium,Gpay,4
+156866460,2018-03-05,Monday,March,2026-06-03 17:52:00,Male,Water Tower,Chicago,No,Fashion,45.0,6,270.0,Medium,Gpay,2
+219223209,2018-03-05,Monday,March,2026-06-03 11:22:00,Female,Water Tower,Chicago,No,Clothing,70.0,6,420.0,High,Cash,3
+670571204,2018-03-01,Thursday,March,2026-06-03 13:49:00,Male,Water Tower,Chicago,No,Fashion,67.0,7,469.0,High,Gpay,4
+444818981,2018-01-31,Wednesday,January,2026-06-03 14:45:00,Male,Park Lane,Dallas,Yes,Fashion,7.0,3,21.0,Low,Gpay,1
+238431080,2018-02-10,Saturday,February,2026-06-03 20:44:00,Male,Brookfield,NewYork,Yes,Furniture,30.0,7,210.0,Medium,Gpay,3
+478134181,2018-03-03,Saturday,March,2026-06-03 12:43:00,Female,Brookfield,NewYork,Yes,Furniture,21.0,7,147.0,Low,Cash,4
+992649067,2018-01-26,Friday,January,2026-06-03 10:13:00,Female,Park Lane,Dallas,Yes,Furniture,29.0,4,116.0,Low,Card,3
+775497478,2018-03-08,Thursday,March,2026-06-03 10:18:00,Male,Water Tower,Chicago,No,Clothing,27.0,2,54.0,Low,Cash,2
+805827970,2018-01-28,Sunday,January,2026-06-03 19:39:00,Female,Brookfield,NewYork,No,Clothing,17.0,7,119.0,Low,Gpay,1
+282745572,2018-01-09,Tuesday,January,2026-06-03 16:52:00,Female,Water Tower,Chicago,Yes,Fashion,20.0,3,60.0,Low,Gpay,5
+807074233,2018-02-11,Sunday,February,2026-06-03 16:52:00,Female,Brookfield,NewYork,Yes,Sporting,42.0,7,294.0,Medium,Gpay,3
+68988140,2018-02-26,Monday,February,2026-06-03 12:34:00,Male,Water Tower,Chicago,No,Groceries,89.0,2,178.0,Low,Cash,2
+129220940,2018-03-14,Wednesday,March,2026-06-03 15:55:00,Male,Water Tower,Chicago,Yes,Furniture,37.0,6,222.0,Medium,Gpay,5
+861236276,2018-02-27,Tuesday,February,2026-06-03 11:48:00,Female,Brookfield,NewYork,Yes,Clothing,19.0,5,95.0,Low,Card,4
+176302111,2018-01-24,Wednesday,January,2026-06-03 20:36:00,Male,Water Tower,Chicago,No,Groceries,90.0,7,630.0,High,Gpay,4
+517625228,2018-01-03,Wednesday,January,2026-06-03 13:02:00,Male,Brookfield,NewYork,Yes,Furniture,55.0,4,220.0,Medium,Card,3
+462941880,2018-01-13,Saturday,January,2026-06-03 16:06:00,Female,Brookfield,NewYork,No,Furniture,61.0,4,244.0,Medium,Cash,4
+622823966,2018-03-08,Thursday,March,2026-06-03 14:20:00,Male,Park Lane,Dallas,No,Furniture,100.0,3,300.0,Medium,Gpay,2
+801096383,2018-01-22,Monday,January,2026-06-03 14:24:00,Female,Park Lane,Dallas,No,Fashion,2.0,2,4.0,Low,Cash,5
+246818576,2018-02-08,Thursday,February,2026-06-03 15:55:00,Female,Water Tower,Chicago,No,Groceries,5.0,4,20.0,Low,Cash,5
+96360197,2018-03-20,Tuesday,March,2026-06-03 12:43:00,Female,Park Lane,Dallas,No,Furniture,4.0,2,8.0,Low,Cash,4
+162150706,2018-02-08,Thursday,February,2026-06-03 15:00:00,Male,Park Lane,Dallas,No,Clothing,7.0,5,35.0,Low,Card,1
+645707148,2018-03-18,Sunday,March,2026-06-03 16:23:00,Female,Brookfield,NewYork,No,Fashion,6.0,2,12.0,Low,Cash,4
+852583661,2018-02-27,Tuesday,February,2026-06-03 20:35:00,Male,Water Tower,Chicago,Yes,Groceries,2.0,1,2.0,Low,Card,2
+809084276,2018-03-05,Monday,March,2026-06-03 18:13:00,Male,Brookfield,NewYork,No,Clothing,20.0,4,80.0,Low,Gpay,3
+808877527,2018-02-24,Saturday,February,2026-06-03 12:04:00,Male,Water Tower,Chicago,Yes,Fashion,71.0,1,71.0,Low,Card,4
+544850143,2018-03-29,Thursday,March,2026-06-03 14:49:00,Female,Water Tower,Chicago,No,Furniture,53.0,5,265.0,Medium,Gpay,1
+438824651,2018-01-14,Sunday,January,2026-06-03 12:51:00,Female,Park Lane,Dallas,Yes,Clothing,37.0,5,185.0,Low,Cash,5
+167903678,2018-03-09,Friday,March,2026-06-03 19:06:00,Female,Park Lane,Dallas,No,Furniture,46.0,3,138.0,Low,Gpay,5
+415999917,2018-02-25,Sunday,February,2026-06-03 19:57:00,Male,Park Lane,Dallas,No,Sporting,95.0,6,570.0,High,Gpay,4
+1868293,2018-02-22,Thursday,February,2026-06-03 12:50:00,Female,Park Lane,Dallas,Yes,Sporting,46.0,2,92.0,Low,Card,1
+155011528,2018-01-17,Wednesday,January,2026-06-03 11:52:00,Female,Brookfield,NewYork,Yes,Groceries,22.0,5,110.0,Low,Card,5
+373388134,2018-03-22,Thursday,March,2026-06-03 12:46:00,Female,Water Tower,Chicago,Yes,Books,63.0,1,63.0,Low,Gpay,1
+983716348,2018-03-17,Saturday,March,2026-06-03 14:12:00,Female,Park Lane,Dallas,Yes,Sporting,32.0,7,224.0,Medium,Cash,3
+736089054,2018-03-03,Saturday,March,2026-06-03 11:09:00,Male,Brookfield,NewYork,No,Books,92.0,6,552.0,High,Cash,4
+341336897,2018-02-23,Friday,February,2026-06-03 19:36:00,Female,Park Lane,Dallas,No,Sporting,73.0,1,73.0,Low,Gpay,5
+40817488,2018-01-02,Tuesday,January,2026-06-03 19:38:00,Female,Park Lane,Dallas,No,Fashion,84.0,7,588.0,High,Card,1
+275252707,2018-01-05,Friday,January,2026-06-03 17:38:00,Male,Brookfield,NewYork,Yes,Clothing,69.0,4,276.0,Medium,Gpay,3
+792274763,2018-03-05,Monday,March,2026-06-03 13:28:00,Male,Park Lane,Dallas,Yes,Clothing,55.0,3,165.0,Low,Cash,1
+651134698,2018-02-15,Thursday,February,2026-06-03 16:36:00,Female,Park Lane,Dallas,Yes,Books,10.0,1,10.0,Low,Card,2
+383124512,2018-01-20,Saturday,January,2026-06-03 17:49:00,Male,Water Tower,Chicago,No,Sporting,97.0,7,679.0,High,Cash,2
+796865298,2018-02-12,Monday,February,2026-06-03 10:23:00,Male,Brookfield,NewYork,Yes,Groceries,78.0,3,234.0,Medium,Cash,5
+186195140,2018-03-05,Monday,March,2026-06-03 13:37:00,Male,Brookfield,NewYork,No,Books,92.0,1,92.0,Low,Card,2
+939286972,2018-01-09,Tuesday,January,2026-06-03 19:40:00,Female,Brookfield,NewYork,Yes,Groceries,64.0,3,192.0,Low,Gpay,1
+752790123,2018-01-15,Monday,January,2026-06-03 15:37:00,Female,Brookfield,NewYork,No,Sporting,99.0,4,396.0,Medium,Cash,2
+386315734,2018-02-09,Friday,February,2026-06-03 13:48:00,Male,Water Tower,Chicago,No,Sporting,29.0,4,116.0,Low,Cash,5
+127734567,2018-02-03,Saturday,February,2026-06-03 13:40:00,Male,Brookfield,NewYork,Yes,Furniture,96.0,2,192.0,Low,Cash,3
+280541372,2018-01-27,Saturday,January,2026-06-03 10:16:00,Female,Brookfield,NewYork,Yes,Books,66.0,3,198.0,Low,Cash,1
+395138851,2018-01-02,Tuesday,January,2026-06-03 11:36:00,Female,Brookfield,NewYork,No,Furniture,27.0,6,162.0,Low,Cash,2
+182431288,2018-03-05,Monday,March,2026-06-03 13:56:00,Female,Water Tower,Chicago,Yes,Fashion,61.0,2,122.0,Low,Gpay,5
+836579192,2018-01-03,Wednesday,January,2026-06-03 17:36:00,Male,Park Lane,Dallas,Yes,Clothing,73.0,1,73.0,Low,Card,2
+213106322,2018-03-02,Friday,March,2026-06-03 10:54:00,Male,Water Tower,Chicago,Yes,Furniture,62.0,7,434.0,High,Card,2
+567239406,2018-01-26,Friday,January,2026-06-03 18:35:00,Male,Water Tower,Chicago,Yes,Furniture,51.0,5,255.0,Medium,Cash,5
+932934368,2018-01-26,Friday,January,2026-06-03 10:37:00,Female,Brookfield,NewYork,No,Groceries,51.0,4,204.0,Medium,Cash,3
+845411807,2018-02-27,Tuesday,February,2026-06-03 16:36:00,Female,Brookfield,NewYork,Yes,Books,26.0,1,26.0,Low,Card,2
+190587018,2018-01-04,Thursday,January,2026-06-03 10:39:00,Male,Brookfield,NewYork,No,Sporting,70.0,3,210.0,Medium,Gpay,1
+884623874,2018-03-15,Thursday,March,2026-06-03 10:08:00,Female,Brookfield,NewYork,Yes,Clothing,93.0,2,186.0,Low,Gpay,2
+438545442,2018-02-15,Thursday,February,2026-06-03 13:51:00,Male,Water Tower,Chicago,No,Groceries,34.0,2,68.0,Low,Card,3
+471675423,2018-01-22,Monday,January,2026-06-03 10:44:00,Female,Water Tower,Chicago,Yes,Clothing,34.0,4,136.0,Low,Gpay,1
+269269953,2018-03-29,Thursday,March,2026-06-03 11:26:00,Female,Park Lane,Dallas,No,Groceries,89.0,2,178.0,Low,Cash,2
+872296387,2018-03-25,Sunday,March,2026-06-03 13:27:00,Female,Brookfield,NewYork,Yes,Books,99.0,5,495.0,High,Cash,4
+428433770,2018-03-26,Monday,March,2026-06-03 19:17:00,Female,Brookfield,NewYork,Yes,Groceries,61.0,3,183.0,Low,Cash,1
+831348901,2018-03-04,Sunday,March,2026-06-03 14:21:00,Female,Park Lane,Dallas,No,Books,36.0,3,108.0,Low,Card,5
+257959706,2018-01-16,Tuesday,January,2026-06-03 13:24:00,Male,Water Tower,Chicago,No,Groceries,7.0,3,21.0,Low,Cash,3
+217009871,2018-02-07,Wednesday,February,2026-06-03 13:50:00,Male,Water Tower,Chicago,No,Fashion,46.0,2,92.0,Low,Card,3
+315410869,2018-02-19,Monday,February,2026-06-03 16:23:00,Male,Park Lane,Dallas,No,Fashion,3.0,3,9.0,Low,Cash,4
+366811443,2018-01-16,Tuesday,January,2026-06-03 13:46:00,Male,Park Lane,Dallas,No,Sporting,71.0,2,142.0,Low,Cash,1
+914016320,2018-01-26,Friday,January,2026-06-03 11:51:00,Male,Water Tower,Chicago,No,Fashion,85.0,5,425.0,High,Card,5
+144547638,2018-01-14,Sunday,January,2026-06-03 10:38:00,Male,Water Tower,Chicago,Yes,Furniture,97.0,2,194.0,Low,Card,4
+88831545,2018-01-31,Wednesday,January,2026-06-03 14:19:00,Female,Park Lane,Dallas,Yes,Fashion,34.0,7,238.0,Medium,Cash,4
+365754742,2018-01-08,Monday,January,2026-06-03 15:07:00,Female,Water Tower,Chicago,No,Furniture,19.0,5,95.0,Low,Card,1
+281937481,2018-01-29,Monday,January,2026-06-03 19:11:00,Female,Water Tower,Chicago,No,Groceries,99.0,1,99.0,Low,Gpay,5
+678754147,2018-03-02,Friday,March,2026-06-03 17:43:00,Male,Park Lane,Dallas,Yes,Sporting,12.0,6,72.0,Low,Gpay,1
+68988075,2018-02-01,Thursday,February,2026-06-03 17:58:00,Male,Park Lane,Dallas,Yes,Books,48.0,4,192.0,Low,Cash,3
+359235143,2018-03-20,Tuesday,March,2026-06-03 18:45:00,Female,Brookfield,NewYork,No,Groceries,55.0,1,55.0,Low,Gpay,3
+939774850,2018-03-03,Saturday,March,2026-06-03 20:24:00,Female,Park Lane,Dallas,No,Furniture,84.0,4,336.0,Medium,Gpay,2
+278317061,2018-03-14,Wednesday,March,2026-06-03 13:22:00,Female,Brookfield,NewYork,No,Fashion,88.0,1,88.0,Low,Card,1
+368853285,2018-02-20,Tuesday,February,2026-06-03 18:37:00,Male,Brookfield,NewYork,No,Clothing,99.0,4,396.0,Medium,Cash,1
+604340487,2018-02-14,Wednesday,February,2026-06-03 18:45:00,Male,Water Tower,Chicago,Yes,Furniture,11.0,5,55.0,Low,Gpay,2
+743868871,2018-01-25,Thursday,January,2026-06-03 10:31:00,Female,Brookfield,NewYork,Yes,Books,93.0,4,372.0,Medium,Gpay,3
+492810637,2018-03-24,Saturday,March,2026-06-03 19:39:00,Male,Park Lane,Dallas,No,Clothing,89.0,5,445.0,High,Gpay,5
+687348438,2018-01-23,Tuesday,January,2026-06-03 13:38:00,Female,Park Lane,Dallas,Yes,Furniture,65.0,3,195.0,Low,Cash,4
+80579422,2018-03-19,Monday,March,2026-06-03 12:50:00,Female,Water Tower,Chicago,Yes,Groceries,1.0,6,6.0,Low,Cash,4
+643832293,2018-02-15,Thursday,February,2026-06-03 19:26:00,Male,Brookfield,NewYork,Yes,Furniture,76.0,7,532.0,High,Cash,2
+831268468,2018-01-11,Thursday,January,2026-06-03 20:35:00,Female,Water Tower,Chicago,No,Clothing,69.0,1,69.0,Low,Cash,5
+492882170,2018-03-14,Wednesday,March,2026-06-03 19:49:00,Female,Park Lane,Dallas,Yes,Groceries,79.0,1,79.0,Low,Gpay,2
+558983653,2018-03-18,Sunday,March,2026-06-03 16:08:00,Female,Brookfield,NewYork,No,Clothing,59.0,3,177.0,Low,Cash,1
+277407654,2018-02-14,Wednesday,February,2026-06-03 13:54:00,Male,Water Tower,Chicago,Yes,Clothing,50.0,3,150.0,Low,Gpay,3
+994560802,2018-01-23,Tuesday,January,2026-06-03 19:48:00,Male,Brookfield,NewYork,Yes,Fashion,32.0,6,192.0,Low,Gpay,2
+746727595,2018-03-30,Friday,March,2026-06-03 13:52:00,Female,Brookfield,NewYork,No,Sporting,72.0,2,144.0,Low,Gpay,1
+339046235,2018-02-06,Tuesday,February,2026-06-03 12:20:00,Female,Brookfield,NewYork,Yes,Fashion,91.0,5,455.0,High,Card,2
+348768896,2018-01-17,Wednesday,January,2026-06-03 15:11:00,Male,Brookfield,NewYork,No,Sporting,91.0,2,182.0,Low,Cash,1
+987110291,2018-01-01,Monday,January,2026-06-03 11:39:00,Male,Park Lane,Dallas,No,Clothing,57.0,2,114.0,Low,Cash,5
+62873821,2018-03-19,Monday,March,2026-06-03 10:25:00,Male,Park Lane,Dallas,No,Groceries,26.0,7,182.0,Low,Gpay,5
+191002335,2018-02-04,Sunday,February,2026-06-03 12:30:00,Female,Water Tower,Chicago,No,Clothing,55.0,4,220.0,Medium,Cash,3
+244033511,2018-01-08,Monday,January,2026-06-03 16:48:00,Male,Park Lane,Dallas,Yes,Clothing,95.0,3,285.0,Medium,Gpay,5
+393987266,2018-01-25,Thursday,January,2026-06-03 15:01:00,Male,Brookfield,NewYork,No,Groceries,79.0,1,79.0,Low,Gpay,3
+604309839,2018-02-22,Thursday,February,2026-06-03 11:26:00,Female,Brookfield,NewYork,No,Books,34.0,6,204.0,Medium,Cash,1
+889591111,2018-02-04,Sunday,February,2026-06-03 18:00:00,Female,Park Lane,Dallas,Yes,Books,93.0,1,93.0,Low,Cash,5
+944196014,2018-03-14,Wednesday,March,2026-06-03 16:43:00,Male,Water Tower,Chicago,No,Sporting,72.0,2,144.0,Low,Cash,3
+286183474,2018-03-02,Friday,March,2026-06-03 19:56:00,Female,Water Tower,Chicago,Yes,Fashion,30.0,1,30.0,Low,Cash,3
+75267883,2018-03-19,Monday,March,2026-06-03 10:25:00,Female,Water Tower,Chicago,No,Sporting,1.0,7,7.0,Low,Gpay,1
+480320443,2018-01-08,Monday,January,2026-06-03 10:52:00,Male,Brookfield,NewYork,No,Sporting,4.0,6,24.0,Low,Cash,2
+58389350,2018-01-12,Friday,January,2026-06-03 19:01:00,Female,Park Lane,Dallas,Yes,Books,71.0,4,284.0,Medium,Cash,2
+799871468,2018-03-23,Friday,March,2026-06-03 14:22:00,Male,Brookfield,NewYork,No,Clothing,53.0,2,106.0,Low,Gpay,2
+884774543,2018-03-18,Sunday,March,2026-06-03 10:18:00,Female,Park Lane,Dallas,Yes,Groceries,55.0,6,330.0,Medium,Card,1
+80389415,2018-03-12,Monday,March,2026-06-03 18:37:00,Male,Park Lane,Dallas,Yes,Groceries,26.0,7,182.0,Low,Card,1
+719326156,2018-03-25,Sunday,March,2026-06-03 10:42:00,Female,Park Lane,Dallas,Yes,Groceries,67.0,5,335.0,Medium,Card,3
+424714026,2018-02-03,Saturday,February,2026-06-03 16:30:00,Female,Brookfield,NewYork,No,Groceries,65.0,2,130.0,Low,Cash,1
+928927387,2018-03-30,Friday,March,2026-06-03 15:26:00,Male,Water Tower,Chicago,Yes,Fashion,38.0,5,190.0,Low,Cash,3
+583805255,2018-03-20,Tuesday,March,2026-06-03 12:46:00,Female,Brookfield,NewYork,Yes,Furniture,56.0,7,392.0,Medium,Gpay,5
+157966851,2018-03-22,Thursday,March,2026-06-03 12:28:00,Male,Park Lane,Dallas,Yes,Books,39.0,3,117.0,Low,Cash,3
+431796363,2018-03-13,Tuesday,March,2026-06-03 10:10:00,Male,Brookfield,NewYork,Yes,Books,10.0,4,40.0,Low,Card,2
+467636158,2018-01-14,Sunday,January,2026-06-03 14:33:00,Male,Park Lane,Dallas,Yes,Fashion,91.0,6,546.0,High,Card,1
+113865610,2018-03-06,Tuesday,March,2026-06-03 11:30:00,Female,Brookfield,NewYork,No,Sporting,35.0,4,140.0,Low,Gpay,5
+5906917,2018-01-28,Sunday,January,2026-06-03 10:00:00,Female,Brookfield,NewYork,Yes,Furniture,16.0,3,48.0,Low,Cash,3
+673511320,2018-03-22,Thursday,March,2026-06-03 18:36:00,Male,Brookfield,NewYork,Yes,Groceries,49.0,2,98.0,Low,Card,2
+256137022,2018-02-15,Thursday,February,2026-06-03 19:54:00,Male,Brookfield,NewYork,Yes,Fashion,65.0,7,455.0,High,Gpay,5
+446058586,2018-01-13,Saturday,January,2026-06-03 12:02:00,Male,Water Tower,Chicago,No,Groceries,73.0,7,511.0,High,Cash,3
+761671458,2018-01-27,Saturday,January,2026-06-03 20:48:00,Female,Water Tower,Chicago,Yes,Sporting,98.0,2,196.0,Low,Card,4
+195735654,2018-02-20,Tuesday,February,2026-06-03 18:19:00,Male,Water Tower,Chicago,Yes,Clothing,67.0,6,402.0,High,Gpay,5
+432408930,2018-02-06,Tuesday,February,2026-06-03 12:38:00,Male,Park Lane,Dallas,No,Groceries,23.0,2,46.0,Low,Gpay,2
+910566694,2018-02-08,Thursday,February,2026-06-03 10:11:00,Female,Park Lane,Dallas,Yes,Books,100.0,3,300.0,Medium,Cash,3
+401049714,2018-01-05,Friday,January,2026-06-03 18:01:00,Female,Brookfield,NewYork,No,Sporting,53.0,3,159.0,Low,Card,3
+716893489,2018-03-13,Tuesday,March,2026-06-03 10:55:00,Female,Water Tower,Chicago,Yes,Furniture,94.0,1,94.0,Low,Card,1
+658692054,2018-01-29,Monday,January,2026-06-03 19:14:00,Male,Park Lane,Dallas,No,Clothing,2.0,7,14.0,Low,Cash,1
+475942982,2018-01-25,Thursday,January,2026-06-03 18:41:00,Male,Brookfield,NewYork,Yes,Furniture,56.0,3,168.0,Low,Cash,2
+811797998,2018-01-09,Tuesday,January,2026-06-03 13:34:00,Male,Park Lane,Dallas,Yes,Sporting,49.0,7,343.0,Medium,Card,2
+49010573,2018-02-07,Wednesday,February,2026-06-03 18:09:00,Female,Water Tower,Chicago,No,Books,72.0,5,360.0,Medium,Card,1
+668627461,2018-01-19,Friday,January,2026-06-03 16:19:00,Female,Water Tower,Chicago,Yes,Clothing,57.0,2,114.0,Low,Card,4
+814161168,2018-02-03,Saturday,February,2026-06-03 12:55:00,Male,Brookfield,NewYork,No,Groceries,55.0,1,55.0,Low,Card,3
+589485033,2018-01-10,Wednesday,January,2026-06-03 11:00:00,Male,Water Tower,Chicago,No,Furniture,95.0,1,95.0,Low,Gpay,3
+962620975,2018-02-04,Sunday,February,2026-06-03 15:19:00,Male,Park Lane,Dallas,Yes,Groceries,16.0,4,64.0,Low,Gpay,2
+681108606,2018-02-23,Friday,February,2026-06-03 12:37:00,Female,Water Tower,Chicago,Yes,Groceries,12.0,1,12.0,Low,Cash,3
+152123727,2018-03-07,Wednesday,March,2026-06-03 13:47:00,Male,Water Tower,Chicago,No,Clothing,6.0,6,36.0,Low,Card,1
+743948077,2018-03-19,Monday,March,2026-06-03 17:54:00,Female,Brookfield,NewYork,Yes,Furniture,68.0,3,204.0,Medium,Gpay,4
+830395693,2018-02-09,Friday,February,2026-06-03 19:52:00,Male,Brookfield,NewYork,No,Fashion,54.0,6,324.0,Medium,Card,3
+107754660,2018-02-26,Monday,February,2026-06-03 14:04:00,Female,Water Tower,Chicago,No,Fashion,83.0,1,83.0,Low,Card,4
+625844840,2018-03-05,Monday,March,2026-06-03 10:49:00,Male,Brookfield,NewYork,Yes,Clothing,50.0,4,200.0,Low,Cash,2
+34774979,2018-01-28,Sunday,January,2026-06-03 16:19:00,Male,Water Tower,Chicago,Yes,Fashion,66.0,3,198.0,Low,Card,3
+623619957,2018-03-09,Friday,March,2026-06-03 15:15:00,Male,Water Tower,Chicago,Yes,Books,28.0,1,28.0,Low,Gpay,3
+602986760,2018-01-06,Saturday,January,2026-06-03 15:06:00,Male,Park Lane,Dallas,No,Books,42.0,6,252.0,Medium,Cash,4
+670908567,2018-03-10,Saturday,March,2026-06-03 11:10:00,Female,Brookfield,NewYork,No,Books,59.0,5,295.0,Medium,Cash,4
+979420786,2018-03-20,Tuesday,March,2026-06-03 14:21:00,Male,Water Tower,Chicago,No,Fashion,31.0,2,62.0,Low,Gpay,3
+481154948,2018-01-30,Tuesday,January,2026-06-03 18:23:00,Female,Brookfield,NewYork,Yes,Books,15.0,6,90.0,Low,Gpay,2
+784007917,2018-01-21,Sunday,January,2026-06-03 13:48:00,Female,Water Tower,Chicago,Yes,Sporting,56.0,7,392.0,Medium,Card,3
+706434356,2018-01-18,Thursday,January,2026-06-03 15:32:00,Female,Water Tower,Chicago,Yes,Sporting,14.0,1,14.0,Low,Cash,3
+59014816,2018-01-29,Monday,January,2026-06-03 19:48:00,Female,Park Lane,Dallas,Yes,Fashion,91.0,5,455.0,High,Gpay,3
+122276077,2018-03-15,Thursday,March,2026-06-03 17:29:00,Male,Brookfield,NewYork,No,Furniture,84.0,6,504.0,High,Card,5
+882557922,2018-01-23,Tuesday,January,2026-06-03 16:16:00,Male,Water Tower,Chicago,No,Sporting,3.0,6,18.0,Low,Card,1
+999665753,2018-03-05,Monday,March,2026-06-03 18:45:00,Male,Brookfield,NewYork,Yes,Groceries,38.0,6,228.0,Medium,Gpay,5
+284607690,2018-02-20,Tuesday,February,2026-06-03 12:36:00,Male,Park Lane,Dallas,Yes,Sporting,51.0,7,357.0,Medium,Cash,1
+832788886,2018-01-06,Saturday,January,2026-06-03 14:36:00,Male,Water Tower,Chicago,Yes,Clothing,3.0,1,3.0,Low,Cash,1
+181135218,2018-02-09,Friday,February,2026-06-03 13:30:00,Male,Park Lane,Dallas,No,Books,47.0,3,141.0,Low,Cash,2
+134430315,2018-01-04,Thursday,January,2026-06-03 18:05:00,Female,Water Tower,Chicago,Yes,Groceries,68.0,1,68.0,Low,Cash,2
+80554322,2018-03-18,Sunday,March,2026-06-03 14:30:00,Male,Brookfield,NewYork,Yes,Furniture,24.0,1,24.0,Low,Card,2
+618080777,2018-02-02,Friday,February,2026-06-03 13:40:00,Female,Water Tower,Chicago,No,Sporting,52.0,2,104.0,Low,Cash,1
+333447274,2018-01-01,Monday,January,2026-06-03 11:40:00,Male,Park Lane,Dallas,No,Books,47.0,7,329.0,Medium,Gpay,5
+949102124,2018-02-10,Saturday,February,2026-06-03 15:48:00,Female,Park Lane,Dallas,Yes,Books,83.0,7,581.0,High,Cash,5
+391923538,2018-01-15,Monday,January,2026-06-03 10:23:00,Male,Water Tower,Chicago,No,Sporting,64.0,1,64.0,Low,Gpay,2
+387274915,2018-03-28,Wednesday,March,2026-06-03 11:34:00,Male,Water Tower,Chicago,No,Groceries,28.0,7,196.0,Low,Cash,5
+572172070,2018-01-08,Monday,January,2026-06-03 13:02:00,Female,Water Tower,Chicago,Yes,Furniture,5.0,5,25.0,Low,Cash,2
+158330556,2018-02-06,Tuesday,February,2026-06-03 19:16:00,Male,Brookfield,NewYork,Yes,Furniture,32.0,6,192.0,Low,Cash,1
+29270534,2018-01-25,Thursday,January,2026-06-03 19:44:00,Male,Water Tower,Chicago,Yes,Books,63.0,5,315.0,Medium,Cash,2
+709410494,2018-01-31,Wednesday,January,2026-06-03 19:44:00,Female,Brookfield,NewYork,No,Books,29.0,3,87.0,Low,Gpay,2
+366683041,2018-02-16,Friday,February,2026-06-03 14:50:00,Male,Park Lane,Dallas,No,Clothing,89.0,5,445.0,High,Cash,2
+127682185,2018-03-13,Tuesday,March,2026-06-03 13:45:00,Female,Park Lane,Dallas,No,Furniture,8.0,6,48.0,Low,Card,2
+526803787,2018-02-02,Friday,February,2026-06-03 10:54:00,Female,Park Lane,Dallas,No,Furniture,20.0,2,40.0,Low,Cash,4
+765581059,2018-02-10,Saturday,February,2026-06-03 13:01:00,Female,Park Lane,Dallas,No,Sporting,57.0,6,342.0,Medium,Cash,2
+309210649,2018-02-09,Friday,February,2026-06-03 15:53:00,Female,Water Tower,Chicago,Yes,Fashion,93.0,7,651.0,High,Card,3
+431475356,2018-01-23,Tuesday,January,2026-06-03 13:48:00,Female,Water Tower,Chicago,No,Clothing,88.0,4,352.0,Medium,Gpay,2
+208922967,2018-03-05,Monday,March,2026-06-03 15:28:00,Female,Brookfield,NewYork,No,Groceries,84.0,5,420.0,High,Cash,3
+610220641,2018-02-10,Saturday,February,2026-06-03 19:40:00,Male,Park Lane,Dallas,No,Furniture,82.0,5,410.0,High,Gpay,3
+879983464,2018-02-26,Monday,February,2026-06-03 17:16:00,Female,Brookfield,NewYork,Yes,Books,10.0,2,20.0,Low,Gpay,2
+891469665,2018-03-11,Sunday,March,2026-06-03 17:47:00,Male,Water Tower,Chicago,Yes,Groceries,22.0,2,44.0,Low,Card,1
+735300355,2018-02-23,Friday,February,2026-06-03 19:30:00,Male,Brookfield,NewYork,Yes,Groceries,34.0,5,170.0,Low,Card,1
+750235304,2018-03-10,Saturday,March,2026-06-03 10:31:00,Female,Water Tower,Chicago,Yes,Books,51.0,3,153.0,Low,Card,2
+270212524,2018-03-13,Tuesday,March,2026-06-03 14:29:00,Female,Brookfield,NewYork,Yes,Sporting,34.0,3,102.0,Low,Gpay,1
+767705654,2018-01-30,Tuesday,January,2026-06-03 11:15:00,Male,Park Lane,Dallas,No,Books,35.0,1,35.0,Low,Cash,2
+126122660,2018-02-15,Thursday,February,2026-06-03 20:26:00,Male,Water Tower,Chicago,Yes,Fashion,60.0,6,360.0,Medium,Card,5
+352435324,2018-03-24,Saturday,March,2026-06-03 12:40:00,Female,Brookfield,NewYork,Yes,Fashion,42.0,2,84.0,Low,Cash,1
+626352806,2018-03-30,Friday,March,2026-06-03 10:17:00,Male,Park Lane,Dallas,No,Sporting,16.0,2,32.0,Low,Card,2
+652672609,2018-03-14,Wednesday,March,2026-06-03 20:23:00,Male,Park Lane,Dallas,Yes,Groceries,88.0,4,352.0,Medium,Gpay,3
+156806665,2018-01-16,Tuesday,January,2026-06-03 10:55:00,Male,Brookfield,NewYork,Yes,Fashion,35.0,6,210.0,Medium,Cash,5
+97731114,2018-02-03,Saturday,February,2026-06-03 15:33:00,Male,Water Tower,Chicago,Yes,Furniture,85.0,3,255.0,Medium,Card,5
+919895826,2018-01-14,Sunday,January,2026-06-03 17:12:00,Male,Brookfield,NewYork,Yes,Furniture,37.0,6,222.0,Medium,Cash,3
+406115322,2018-01-24,Wednesday,January,2026-06-03 16:49:00,Male,Water Tower,Chicago,No,Sporting,99.0,2,198.0,Low,Card,3
+55446109,2018-01-05,Friday,January,2026-06-03 13:11:00,Female,Brookfield,NewYork,Yes,Furniture,13.0,7,91.0,Low,Gpay,4
+814814063,2018-02-08,Thursday,February,2026-06-03 17:55:00,Male,Park Lane,Dallas,Yes,Sporting,13.0,4,52.0,Low,Card,1
+144017872,2018-03-03,Saturday,March,2026-06-03 18:51:00,Female,Park Lane,Dallas,Yes,Books,82.0,2,164.0,Low,Card,2
+160173319,2018-02-14,Wednesday,February,2026-06-03 15:46:00,Female,Park Lane,Dallas,No,Fashion,40.0,3,120.0,Low,Card,5
+636443509,2018-01-21,Sunday,January,2026-06-03 19:48:00,Male,Water Tower,Chicago,Yes,Furniture,79.0,1,79.0,Low,Card,4
+546550680,2018-03-02,Friday,March,2026-06-03 15:08:00,Male,Park Lane,Dallas,Yes,Groceries,7.0,4,28.0,Low,Card,2
+691728724,2018-03-21,Wednesday,March,2026-06-03 11:56:00,Male,Water Tower,Chicago,No,Sporting,24.0,4,96.0,Low,Gpay,4
+23179110,2018-01-06,Saturday,January,2026-06-03 11:43:00,Male,Park Lane,Dallas,Yes,Fashion,34.0,6,204.0,Medium,Cash,5
+360225633,2018-01-23,Tuesday,January,2026-06-03 15:53:00,Female,Water Tower,Chicago,Yes,Furniture,44.0,5,220.0,Medium,Card,4
+629076954,2018-01-23,Tuesday,January,2026-06-03 13:53:00,Male,Water Tower,Chicago,No,Books,43.0,5,215.0,Medium,Cash,2
+579735898,2018-03-20,Tuesday,March,2026-06-03 15:43:00,Female,Park Lane,Dallas,Yes,Fashion,41.0,5,205.0,Medium,Gpay,2
+615324500,2018-03-18,Sunday,March,2026-06-03 16:35:00,Female,Park Lane,Dallas,Yes,Sporting,38.0,5,190.0,Low,Card,3
+321636517,2018-02-02,Friday,February,2026-06-03 15:46:00,Male,Brookfield,NewYork,Yes,Clothing,58.0,3,174.0,Low,Card,1
+696587127,2018-03-13,Tuesday,March,2026-06-03 15:58:00,Male,Park Lane,Dallas,No,Books,78.0,7,546.0,High,Card,2
+648059805,2018-02-21,Wednesday,February,2026-06-03 20:31:00,Female,Brookfield,NewYork,No,Sporting,40.0,5,200.0,Low,Gpay,1
+980537272,2018-03-14,Wednesday,March,2026-06-03 10:53:00,Male,Water Tower,Chicago,No,Sporting,81.0,1,81.0,Low,Cash,5
+838547209,2018-01-08,Monday,January,2026-06-03 18:43:00,Female,Park Lane,Dallas,No,Sporting,87.0,3,261.0,Medium,Card,3
+264069155,2018-02-07,Wednesday,February,2026-06-03 11:01:00,Male,Water Tower,Chicago,Yes,Sporting,1.0,2,2.0,Low,Gpay,1
+987505479,2018-02-21,Wednesday,February,2026-06-03 15:56:00,Male,Water Tower,Chicago,No,Sporting,63.0,4,252.0,Medium,Cash,1
+736292714,2018-02-08,Thursday,February,2026-06-03 13:34:00,Female,Park Lane,Dallas,Yes,Sporting,88.0,6,528.0,High,Cash,3
+137417145,2018-03-25,Sunday,March,2026-06-03 14:43:00,Female,Park Lane,Dallas,No,Clothing,69.0,5,345.0,Medium,Cash,3
+685746853,2018-02-07,Wednesday,February,2026-06-03 20:07:00,Female,Park Lane,Dallas,No,Groceries,58.0,4,232.0,Medium,Card,2
+625417060,2018-03-04,Sunday,March,2026-06-03 15:31:00,Male,Water Tower,Chicago,No,Sporting,73.0,3,219.0,Medium,Gpay,3
+546718114,2018-01-05,Friday,January,2026-06-03 13:41:00,Female,Water Tower,Chicago,No,Groceries,18.0,2,36.0,Low,Cash,3
+613986911,2018-02-19,Monday,February,2026-06-03 15:47:00,Male,Brookfield,NewYork,No,Fashion,54.0,6,324.0,Medium,Card,2
+838746464,2018-03-12,Monday,March,2026-06-03 17:43:00,Female,Brookfield,NewYork,Yes,Furniture,23.0,7,161.0,Low,Card,4
+934711328,2018-02-17,Saturday,February,2026-06-03 17:38:00,Female,Water Tower,Chicago,No,Clothing,80.0,3,240.0,Medium,Cash,2
+134230335,2018-02-26,Monday,February,2026-06-03 20:51:00,Male,Brookfield,NewYork,No,Books,88.0,5,440.0,High,Cash,5
+284977676,2018-01-28,Sunday,January,2026-06-03 16:19:00,Male,Park Lane,Dallas,No,Groceries,89.0,2,178.0,Low,Cash,1
+839513398,2018-03-09,Friday,March,2026-06-03 19:08:00,Female,Brookfield,NewYork,Yes,Clothing,67.0,5,335.0,Medium,Gpay,2
+322006600,2018-01-08,Monday,January,2026-06-03 10:01:00,Female,Park Lane,Dallas,No,Clothing,37.0,5,185.0,Low,Card,5
+81079897,2018-03-28,Wednesday,March,2026-06-03 12:12:00,Female,Park Lane,Dallas,Yes,Fashion,64.0,7,448.0,High,Gpay,1
+340617715,2018-01-19,Friday,January,2026-06-03 19:57:00,Male,Brookfield,NewYork,No,Sporting,2.0,1,2.0,Low,Card,1
+464762614,2018-03-03,Saturday,March,2026-06-03 10:38:00,Male,Water Tower,Chicago,No,Fashion,61.0,1,61.0,Low,Cash,2
+497734676,2018-02-09,Friday,February,2026-06-03 14:14:00,Male,Park Lane,Dallas,No,Sporting,5.0,4,20.0,Low,Cash,3
+614557665,2018-03-22,Thursday,March,2026-06-03 17:16:00,Female,Park Lane,Dallas,No,Clothing,49.0,3,147.0,Low,Cash,5
+158012185,2018-03-09,Friday,March,2026-06-03 11:46:00,Male,Brookfield,NewYork,No,Books,1.0,3,3.0,Low,Gpay,2
+719253789,2018-03-15,Thursday,March,2026-06-03 18:37:00,Female,Brookfield,NewYork,No,Clothing,92.0,7,644.0,High,Gpay,4
+34442223,2018-01-10,Wednesday,January,2026-06-03 17:24:00,Male,Brookfield,NewYork,No,Clothing,88.0,3,264.0,Medium,Gpay,1
+418253101,2018-03-14,Wednesday,March,2026-06-03 12:25:00,Female,Brookfield,NewYork,No,Fashion,81.0,2,162.0,Low,Gpay,5
+741817151,2018-02-10,Saturday,February,2026-06-03 14:43:00,Female,Brookfield,NewYork,No,Furniture,83.0,3,249.0,Medium,Gpay,1
+169440268,2018-02-17,Saturday,February,2026-06-03 14:42:00,Female,Brookfield,NewYork,No,Groceries,4.0,7,28.0,Low,Gpay,5
+979059991,2018-03-26,Monday,March,2026-06-03 13:48:00,Female,Brookfield,NewYork,Yes,Books,84.0,3,252.0,Medium,Gpay,3
+266635768,2018-01-29,Monday,January,2026-06-03 14:30:00,Male,Water Tower,Chicago,Yes,Groceries,39.0,6,234.0,Medium,Cash,2
+321374195,2018-03-17,Saturday,March,2026-06-03 14:16:00,Female,Water Tower,Chicago,No,Clothing,30.0,2,60.0,Low,Cash,4
+245049016,2018-01-20,Saturday,January,2026-06-03 10:03:00,Female,Park Lane,Dallas,No,Furniture,74.0,4,296.0,Medium,Card,4
+737210,2018-01-20,Saturday,January,2026-06-03 20:47:00,Female,Water Tower,Chicago,Yes,Furniture,88.0,1,88.0,Low,Cash,5
+941364541,2018-03-13,Tuesday,March,2026-06-03 14:53:00,Female,Brookfield,NewYork,No,Sporting,19.0,7,133.0,Low,Cash,1
+752407865,2018-01-15,Monday,January,2026-06-03 10:01:00,Male,Water Tower,Chicago,Yes,Clothing,25.0,4,100.0,Low,Cash,5
+699906043,2018-02-15,Thursday,February,2026-06-03 12:58:00,Male,Brookfield,NewYork,Yes,Furniture,96.0,7,672.0,High,Card,3
+927909627,2018-03-02,Friday,March,2026-06-03 13:35:00,Male,Brookfield,NewYork,No,Books,54.0,1,54.0,Low,Card,1
+455112063,2018-03-19,Monday,March,2026-06-03 17:30:00,Female,Brookfield,NewYork,Yes,Clothing,3.0,3,9.0,Low,Cash,2
+446582560,2018-01-31,Wednesday,January,2026-06-03 19:00:00,Male,Water Tower,Chicago,No,Fashion,29.0,5,145.0,Low,Cash,4
+818829599,2018-03-26,Monday,March,2026-06-03 11:19:00,Male,Park Lane,Dallas,No,Groceries,31.0,4,124.0,Low,Card,3
+556589713,2018-02-20,Tuesday,February,2026-06-03 17:17:00,Male,Water Tower,Chicago,Yes,Groceries,3.0,5,15.0,Low,Gpay,3
+82324424,2018-02-06,Tuesday,February,2026-06-03 11:44:00,Male,Brookfield,NewYork,No,Clothing,71.0,5,355.0,Medium,Card,3
+783661702,2018-01-29,Monday,January,2026-06-03 15:44:00,Female,Brookfield,NewYork,No,Clothing,89.0,7,623.0,High,Cash,5
+759171975,2018-01-31,Wednesday,January,2026-06-03 10:13:00,Female,Water Tower,Chicago,Yes,Clothing,31.0,7,217.0,Medium,Gpay,3
